@@ -5,7 +5,23 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:26:27 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] FORVIA HELLA Ignite、51Simとパートナーシップで自動運転グローバル検証体制を構築</title>
+      <link>https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</guid>
+      <pubDate>Fri, 28 Aug 2026 22:44:08 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転システムのグローバル検証・規制対応という重要なインフラ整備。自動運転L2/L3/L4開発の実用化段階で必要な取り組み。）</p><p>FORVIA HELLA IgniteとAIシミュレーションプラットフォーム51WORLD/51Simが戦略提携を締結し、規制要件に対応した自動運転検証能力を共同構築する。中国の自動運転企業のグローバル展開を支援し、EU規制UN R157やUN R185などの型式認証対応が可能になる。シミュレーションテストから適合性評価、認証証拠までの完全検証ループを実現する。</p><p><a href="https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] PATEO、大手グローバル自動車メーカーの2ブランドプロジェクト受注を確保</title>
+      <link>https://autonews.gasgoo.com/articles/news/pateo-secures-dual-brand-project-nomination-from-leading-global-automaker-2093362151342555137</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/pateo-secures-dual-brand-project-nomination-from-leading-global-automaker-2093362151342555137</guid>
+      <pubDate>Fri, 28 Aug 2026 23:36:40 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（スマートコックピットやAIシステムは自動運転周辺技術だが、具体的なL2/L3/L4の自動運転機能との関連性が不明確。）</p><p>中国のPATEOが国際大手自動車グループの供給チェーンに初参入し、2ブランドのプロジェクト受注を獲得した。高級ブランド向けスマートコックピット制御システムとAI車内対話システムを供給する。Qualcomm Snapdragon 8295プラットフォームを採用し、欧州・中東・南米の主要市場向けとなる。</p><p><a href="https://autonews.gasgoo.com/articles/news/pateo-secures-dual-brand-project-nomination-from-leading-global-automaker-2093362151342555137">元記事を読む</a></p>]]></description>
+    </item>
   </channel>
 </rss>
