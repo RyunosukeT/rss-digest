@@ -5,7 +5,167 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:10:15 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★☆☆☆] OpenAI、独自AI推論チップ「Jalapeño」の初期性能を発表</title>
+      <link>https://codezine.jp/article/detail/29490</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29490</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 2/5（AI推論チップの発表だが、自動運転システムとの直接的な関連性が不明。汎用AI基盤技術として参考情報程度。）</p><p>OpenAIが独自開発のAI推論チップ「Jalapeño」の初期性能を発表した。このチップはAI推論タスクの高速化とコスト削減を狙いとしている。自動運転を含む次世代AI応用の実装に必要な推論能力の向上が期待される。</p><p><a href="https://codezine.jp/article/detail/29490">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★☆☆☆] AMD、ROCm 10リリースとAI開発基盤「ROCm.AI」の一般提供を開始</title>
+      <link>https://codezine.jp/article/detail/29508</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29508</guid>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 2/5（AI開発基盤だが自動運転への直接言及なし。汎用AI基盤として参考情報程度。）</p><p>AMDがGPUコンピューティングプラットフォーム「ROCm 10」とAI開発基盤「ROCm.AI」を発表・一般提供開始。AI開発・推論環境の整備が進む。自動運転システムの開発環境としての活用可能性がある。</p><p><a href="https://codezine.jp/article/detail/29508">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★☆☆☆] 生成AIの導入は8割超、AIエージェントの本格活用は13.3％。Asanaが日本企業のAI活用の実態を調査</title>
+      <link>https://codezine.jp/article/detail/29489</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29489</guid>
+      <pubDate>Fri, 28 Aug 2026 03:45:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 2/5（AI活用調査だが自動運転業界特化でなく、参考情報程度。）</p><p>Asanaが日本企業のAI活用状況を調査。生成AI導入率は80%超だがAIエージェント本格活用は13.3%に留まる。自動運転開発企業のAI採用動向を知る参考情報になる可能性があるが、自動運転特化データではない。</p><p><a href="https://codezine.jp/article/detail/29489">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★☆☆☆] AIエージェント向けのWebと実行基盤は、人間向けと何が違うのか──Cloudflareが示すAgentic Webの4要件</title>
+      <link>https://codezine.jp/article/detail/29480</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29480</guid>
+      <pubDate>Fri, 28 Aug 2026 01:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 2/5（AIエージェント基盤情報だが自動運転への直接言及なし。参考情報程度。）</p><p>CloudflareがAIエージェント時代のWeb基盤について説明。HTMLアクセスの約60%がボット化しており、AIエージェント通信は1年で1,700%増加。人間向けと異なるエージェント向けWeb設計の必要性を指摘。自動運転システムのクラウド基盤設計に参考になる可能性がある。</p><p><a href="https://codezine.jp/article/detail/29480">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★☆☆☆] Devinにどこまで任せられる？ 使いどころを一段ずつ広げる「任せ方の3タイプ」</title>
+      <link>https://codezine.jp/article/detail/29221</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29221</guid>
+      <pubDate>Thu, 27 Aug 2026 23:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 2/5（AIエージェント活用法だが自動運転への直接言及なし。参考情報程度。）</p><p>AI開発エージェント「Devin」の効果的な使い方について解説。「1回の依頼で80点」を引き出す工夫や、任せる範囲を3段階で分類。自動運転ソフトウェア開発でのAIエージェント活用に応用できる考え方だが、自動運転特化情報ではない。</p><p><a href="https://codezine.jp/article/detail/29221">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★☆☆☆] Google、音声認識モデル「Gemini 3.5 Transcribe」を公開</title>
+      <link>https://codezine.jp/article/detail/29471</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29471</guid>
+      <pubDate>Thu, 27 Aug 2026 23:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 2/5（音声認識技術だが自動運転への直接言及なし。参考技術程度。）</p><p>GoogleがGemini 3.5 Transcribeという音声認識モデルを公開。音声テキスト化精度が向上。自動運転システムの音声制御インターフェースに活用される可能性がある。</p><p><a href="https://codezine.jp/article/detail/29471">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] 学生向けハッカソン「ハックツハッカソン ~モサカップ~ 2026」福岡で開催へ</title>
+      <link>https://codezine.jp/article/detail/29511</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29511</guid>
+      <pubDate>Fri, 28 Aug 2026 23:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（学生向けハッカソン一般情報で、自動運転関連の内容が不明確。興味対象外。）</p><p>学生向けハッカソンイベント「ハックツハッカソン ~モサカップ~ 2026」が福岡で開催される。技術人材育成の機会を提供するイベントである。自動運転技術の開発に関わる可能性は不明。</p><p><a href="https://codezine.jp/article/detail/29511">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] 国産オープンソースCMS「baserCMS」最新版5.4.0がリリース、AIエージェント連携機能とブロックエディタを搭載</title>
+      <link>https://codezine.jp/article/detail/29507</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29507</guid>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（CMS機能説明で自動運転関連なし。読者の興味範囲外。）</p><p>国産CMS「baserCMS」v5.4.0がリリースされ、AIエージェント連携機能とブロックエディタが追加された。Webサイト構築ツールの機能拡張だが、自動運転システムとは無関係。</p><p><a href="https://codezine.jp/article/detail/29507">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] GitHub Copilot、エンタープライズ向けにプラグイン自動更新機能を追加</title>
+      <link>https://codezine.jp/article/detail/29479</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29479</guid>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（開発支援ツール機能で、自動運転システム構築とは直接関連なし。）</p><p>GitHub Copilotがエンタープライズ向けにプラグイン自動更新機能を追加。開発効率向上の支援機能が強化された。自動運転ソフトウェア開発の補助ツールとしての利用可能性はあるが直接的な関連は不明。</p><p><a href="https://codezine.jp/article/detail/29479">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] Amazon EKS、認証局の自動ローテーション機能を発表</title>
+      <link>https://codezine.jp/article/detail/29478</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29478</guid>
+      <pubDate>Fri, 28 Aug 2026 07:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（クラウドセキュリティ機能で、自動運転システム構築との直接関連なし。）</p><p>Amazon EKSがKubernetes環境の認証局自動ローテーション機能を発表。クラウドインフラの セキュリティ機能が強化された。自動運転システムの運用インフラとしての活用は考えられるが直接的な関連は薄い。</p><p><a href="https://codezine.jp/article/detail/29478">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] Google Classroom、コンテキスト認識アクセス制御に対応</title>
+      <link>https://codezine.jp/article/detail/29477</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29477</guid>
+      <pubDate>Fri, 28 Aug 2026 05:30:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（教育プラットフォーム機能で自動運転関連なし。）</p><p>Google Classroomがコンテキスト認識アクセス制御機能に対応。教育プラットフォームのセキュリティ機能が向上。自動運転技術とは無関連。</p><p><a href="https://codezine.jp/article/detail/29477">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] Visual Studio、8月に発表したアップデートをまとめて紹介</title>
+      <link>https://codezine.jp/article/detail/29475</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29475</guid>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（IDE機能説明で、自動運転開発への具体的な関連性不明。）</p><p>Microsoftの統合開発環境Visual Studioの8月アップデートが紹介されている。開発ツールの機能向上情報。自動運転ソフトウェア開発に使用される可能性があるが具体内容は不明。</p><p><a href="https://codezine.jp/article/detail/29475">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] 承認された企画ほど市場で死ぬ。技術起点の罠を断つ「体験からの逆算」を小杉知司氏が解説、9月10日にオンライン開催</title>
+      <link>https://codezine.jp/article/detail/29488</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29488</guid>
+      <pubDate>Fri, 28 Aug 2026 03:30:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（プロダクト開発方法論で、自動運転システム構築の直接情報なし。）</p><p>技術起点のプロダクト開発の問題点と「体験からの逆算」アプローチについてのオンラインセミナーが予定されている。自動運転システム開発の進め方にも参考になる可能性があるが、直接的な関連は不明。</p><p><a href="https://codezine.jp/article/detail/29488">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] AIで広く聴き、気になる回答者は人が直接深掘り。ユニーリサーチが「リピートオファー機能」の提供を開始</title>
+      <link>https://codezine.jp/article/detail/29487</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29487</guid>
+      <pubDate>Fri, 28 Aug 2026 03:15:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（調査ツール機能で自動運転システム構築との直接関連なし。）</p><p>ユニーリサーチがAIと人間による調査方法「リピートオファー機能」を提供開始。市場調査ツールの機能拡張。自動運転市場調査などで活用される可能性があるが直接関連は薄い。</p><p><a href="https://codezine.jp/article/detail/29487">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] Amazon CloudFront、S3マルチリージョンアクセスポイントのOAC対応</title>
+      <link>https://codezine.jp/article/detail/29474</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29474</guid>
+      <pubDate>Fri, 28 Aug 2026 02:30:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（クラウドストレージ機能で、自動運転システム開発の直接情報なし。）</p><p>Amazon CloudFrontがS3マルチリージョンアクセスポイントのOAC対応を発表。クラウドインフラの機能強化。自動運転システムのデータ配信インフラとしての活用は可能だが直接的な関連は不明。</p><p><a href="https://codezine.jp/article/detail/29474">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] 福岡で働くエンジニアのリアルな生存戦略を語る！【デブサミ2026福岡 注目セッション】</title>
+      <link>https://codezine.jp/article/detail/29361</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29361</guid>
+      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（エンジニアキャリア情報で、自動運転技術の具体内容なし。）</p><p>福岡でのエンジニア業務と キャリアについてのセミナーセッション情報。技術者のキャリア形成に関する内容。自動運転エンジニアの就業情報に関連する可能性があるが具体内容は不明。</p><p><a href="https://codezine.jp/article/detail/29361">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] GitHub Appsがエンタープライズ請求データへのアクセスに対応</title>
+      <link>https://codezine.jp/article/detail/29473</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29473</guid>
+      <pubDate>Fri, 28 Aug 2026 01:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（GitHub管理機能で、自動運転開発との直接関連なし。）</p><p>GitHub Appsがエンタープライズ請求データアクセス機能に対応。GitHub管理機能の強化。自動運転開発チームの運用支援ツールとして使用される可能性があるが直接的な関連は不明。</p><p><a href="https://codezine.jp/article/detail/29473">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] 「うちの開発、遅くないか？」　その一言が生む重圧の正体</title>
+      <link>https://codezine.jp/article/detail/29225</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29225</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（開発生産性論で、自動運転技術の具体情報なし。）</p><p>DMM.comの石垣雅人氏が『誤解だらけの開発生産性』について語る。AI時代における開発生産性の測定と評価の問題点を解説。自動運転ソフトウェア開発における生産性評価にも応用できる視点だが自動運転特化情報ではない。</p><p><a href="https://codezine.jp/article/detail/29225">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] Node.js 24.20.0（LTS）リリース、パッケージマップなど多数の新機能追加</title>
+      <link>https://codezine.jp/article/detail/29472</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29472</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（JavaScript実行環境機能で、自動運転技術との直接関連なし。）</p><p>Node.js 24.20.0 LTSがリリースされ、パッケージマップなど複数の新機能が追加。JavaScriptサーバーサイド開発環境の進化。自動運転システムのバックエンド開発に使用される可能性があるが直接的な関連は不明。</p><p><a href="https://codezine.jp/article/detail/29472">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★☆☆☆☆] エクセルソフトが「スピーチコネクト」の販売を開始、ローカルAIで会議音声をリアルタイム文字起こし・翻訳</title>
+      <link>https://codezine.jp/article/detail/29470</link>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29470</guid>
+      <pubDate>Thu, 27 Aug 2026 07:30:00 GMT</pubDate>
+      <category>CodeZine</category>
+      <description><![CDATA[<p><strong>CodeZine</strong> ／ 興味スコア 1/5（音声処理ツール販売で、自動運転システム開発の直接情報なし。）</p><p>エクセルソフトがローカルAI搭載の音声文字起こし・翻訳ツール「スピーチコネクト」の販売を開始。オンプレミスAI技術の活用例。自動運転開発会議などで利用される可能性があるが、自動運転システム構築との直接関連は薄い。</p><p><a href="https://codezine.jp/article/detail/29470">元記事を読む</a></p>]]></description>
+    </item>
   </channel>
 </rss>
