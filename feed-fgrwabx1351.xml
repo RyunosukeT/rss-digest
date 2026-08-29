@@ -5,7 +5,15 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:33:54 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] FORVIA HELLA Ignite、51Simと戦略提携し自動運転の検証能力を強化</title>
+      <link>https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</guid>
+      <pubDate>Fri, 28 Aug 2026 22:44:08 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転システムのグローバル検証・認証インフラ構築であり、L3/L4自動運転の実用化に直結。）</p><p>FORVIA HELLA IgniteとシミュレーションプラットフォームのAI企業51Simが戦略提携を締結した。グローバル規制要件に対応した自動運転検証能力の構築を目指す。EU規制UN R157/R185などの型式認証に対応した高精度シミュレーションと適合検証の完全ループ構築を目標とする。自動運転の世界展開における認証体制の高度化を示す取り組みである。</p><p><a href="https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968">元記事を読む</a></p>]]></description>
+    </item>
   </channel>
 </rss>
