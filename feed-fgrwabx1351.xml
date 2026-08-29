@@ -5,7 +5,87 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:42:49 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] 小鹏第二世代VLA大規模言語モデルが大規模アップグレード、AIが「時間」を理解する能力を獲得</title>
+      <link>https://www.geekcar.com/archives/139987</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/139987</guid>
+      <pubDate>Thu, 27 Aug 2026 13:52:38 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（自動運転システムの中核となるAI大規模モデルの実質的進化。L4級技術の搭載は読者の最大関心領域。）</p><p>小鹏の第二世代VLAモデルが初の大型アップグレードを実施し、XOS 6.3.0を小鹏G9Lで初公開する。コア改善として、AIが物理空間の3D理解から4D時空理解へ進化し、過去30秒の世界を記憶できるようになった。エンドサイド推論を3.5倍に拡大し、ストリーミング推論導入により応答速度を300%向上させた。X-Foresight予測モデルで6秒先の道路状況を予測可能になり、L4級のロボタクシー体験を量産車にも提供する。</p><p><a href="https://www.geekcar.com/archives/139987">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★★] 小鹏ロボタクシーが広州で2000件以上の内部テスト完了、2027年の乗客運行開始を目標</title>
+      <link>https://autonews.gasgoo.com/articles/news/xpeng-robotaxi-completes-over-2000-internal-tests-in-guangzhou-targeting-passenger-operations-in-2027-2092501275861336064</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/xpeng-robotaxi-completes-over-2000-internal-tests-in-guangzhou-targeting-passenger-operations-in-2027-2092501275861336064</guid>
+      <pubDate>Wed, 26 Aug 2026 14:35:43 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（L4級自動運転の実運用化に向けた具体的進捗。2027年の商用化見通しは自動運転業界として最重要ニュース。）</p><p>小鹏が量産ロボタクシーで広州において2000件以上の内部テストを完了し、乗客デモンストレーション操業の全フロー走行に成功した。第二世代VLAシステムを搭載し、クラウド基盤介入プラットフォームを開発。2027年に安全監視官なしでの無人乗客運行開始を目標。独ドイツでのローカライゼーションテストも完了し、単一モデルで中欧両地対応を実現。ドイツでのL4技術国際展開交渉も進行中。</p><p><a href="https://autonews.gasgoo.com/articles/news/xpeng-robotaxi-completes-over-2000-internal-tests-in-guangzhou-targeting-passenger-operations-in-2027-2092501275861336064">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★★] 埃安とファーウェイが協力した超級純電Ray7、L4級ロボタクシー同源大モデル搭載</title>
+      <link>https://www.geekcar.com/archives/139971</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/139971</guid>
+      <pubDate>Mon, 24 Aug 2026 19:01:57 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（L4級自動運転システム同源の大規模言語モデルを量産車に搭載する重要な事例。自動運転の実用化加速を示す。）</p><p>埃安の新型セダンRay7が発表され、ファーウェイとの協力で先進自動運転技術を搭載。192線LiDAR、3個4D mmWレーダー、27個全視角センサーを装備し、文遠知行のL4級ロボタクシー同源大模型を搭載。度電12km、CLTC 700km続航、EMB線控制動技術、iTRACK智能扭矩制御システムなど硬核技術を集約。L4級ロボタクシー技術の量産乗用車への移植を実現。</p><p><a href="https://www.geekcar.com/archives/139971">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★★] 深藍G318、華為乾崑スマートドライビング搭載で都市走行に対応</title>
+      <link>https://www.geekcar.com/archives/139934</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/139934</guid>
+      <pubDate>Sat, 22 Aug 2026 12:35:01 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（華為ADS 5 Proは高度な自動運転補助システム（L3級相当）。都市部での複雑走行シナリオに対応する最新技術で、読者の強い関心対象。）</p><p>深藍は8月21日に全新G318を発表。華為乾崑智驾ADS 5 Proを搭載し、都市通勤から高速走行まで対応する辅助運転機能を提供する。27個のセンサーによるWEWA 2.0アーキテクチャにより、狭路での三点式Uターンやスマート駐車などの高度な機能を実現。高速走行時は1500km毎に人間介入が必要となる程度の信頼性を持つ。HarmonySpace 5座舱システムも統合し、方言対応の音声助手や多メディア統合を提供。</p><p><a href="https://www.geekcar.com/archives/139934">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★★] Momenta・XHEART・QNXが安全認証済みの自動運転プラットフォムを開発</title>
+      <link>https://autonews.gasgoo.com/articles/news/momenta-xheart-qnx-partner-on-safety-certified-physical-ai-driving-platform-2089910348512776193</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/momenta-xheart-qnx-partner-on-safety-certified-physical-ai-driving-platform-2089910348512776193</guid>
+      <pubDate>Wed, 19 Aug 2026 11:00:22 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（自動運転プラットフォム開発で、L3/L4級の実現を目指す。ASIL D認証など安全標準への適合が強調されており、自動運転システムの具体的進展として重要。）</p><p>Momenta、XHEART、QNXが協力し、機能安全ISO 26262 ASIL D認証を取得した自動運転プラットフォムを開発した。Momentaの完全スタック自動運転技術、XHEARTのX7 SoC、QNX OSを統合した本製品対応ソリューション。TÜV Rheinland認証を取得し、EU規格UN Regulation 171対応を目指している。国際市場進出を希望するOEMに向けた、厳格な安全基準を満たすプラットフォム。</p><p><a href="https://autonews.gasgoo.com/articles/news/momenta-xheart-qnx-partner-on-safety-certified-physical-ai-driving-platform-2089910348512776193">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] FORVIA HELLA Ignite と51Simがグローバル規制対応の自動運転検証ケイパビリティを構築</title>
+      <link>https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</guid>
+      <pubDate>Fri, 28 Aug 2026 22:44:08 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転システムの開発・検証インフラとして重要。EU進出時の規制対応も自動運転関連で高い価値がある。）</p><p>FORVIA HELLA IgniteとシミュレーションプラットフォームFirm 51Simが戦略的提携を締結し、グローバル規制フレームワーク対応の自動運転検証システムを構築する。EU規制UN R157/R185などの型式認可要件に対応し、規制準拠の完全検証ループ「規制ルール→交通シナリオ→シミュレーション→適合評価→認証証拠」を実現する。中国企業のグローバル展開において欧州進出の障壁となる認証要件クリアに不可欠なソリューション。</p><p><a href="https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 車線級SR導航が規模量産段階へ、L2以上搭載率6割超で市場条件成熟</title>
+      <link>https://www.geekcar.com/archives/139980</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/139980</guid>
+      <pubDate>Thu, 27 Aug 2026 13:47:26 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（自動運転L2レベルのシステム搭載が標準化する重要な転換点。座舱・自動運転融合技術の普及動向を示す。）</p><p>艾瑞咨询の報告によれば、車線級SR（スーパーリアルスティック）導航が規模量産の価値実現段階に入った。座舱・自動運転ドメイン融合により、従来の経路案内から実時間実景表示への進化を実現。L2以上の搭載率が60%超となり、市場条件が整った。2026年に十数款以上が搭載予定で、高端から中低端への展開が加速。百度地図が1200万km、300万個路口の車線級データと1300万km超のSR導航カバレッジで業界トップ。</p><p><a href="https://www.geekcar.com/archives/139980">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] Afariが上半期売上51.2億元、知能運転部門が急成長で売上24.3%占有</title>
+      <link>https://autonews.gasgoo.com/articles/news/afari-technology-h1-revenue-hits-rmb-512b-net-profit-soars-151-2092505672993492993</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/afari-technology-h1-revenue-hits-rmb-512b-net-profit-soars-151-2092505672993492993</guid>
+      <pubDate>Wed, 26 Aug 2026 14:53:13 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転L2~L3レベルのG-ASD 4.0システムの量産展開と市場成長を示す重要な実績。）</p><p>Afari Technologyは上半期売上5.12億元（前年比22.36%増）、純利益は151.25%増加。知能運転セグメントが1.235億元（全売上の24.3%）を達成し、16車型で93%ユーザー激活率を実現。G-ASD 4.0システムが量産展開され、ZEEKR、Lynk &amp; Co、Geely Galaxy、smartなど複数ブランドに搭載。同社はハイレベル自動運転市場シェアで業界トップ層に位置付けられている。</p><p><a href="https://autonews.gasgoo.com/articles/news/afari-technology-h1-revenue-hits-rmb-512b-net-profit-soars-151-2092505672993492993">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 華為乾崑スマートドライビング、ゲート・ツー・ゲート機能が1億回使用を突破</title>
+      <link>https://autonews.gasgoo.com/articles/news/huawei-reports-rapid-adoption-of-qiankun-smart-driving-features-2089708024565620737</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/huawei-reports-rapid-adoption-of-qiankun-smart-driving-features-2089708024565620737</guid>
+      <pubDate>Tue, 18 Aug 2026 21:36:24 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（華為ADS系統の実装状況と使用統計。L2～L3級の補助運転機能の広範な普及状況を示し、自動運転市場動向の把握に有用。）</p><p>華為乾崑智駕システムのゲート・ツー・ゲート機能が累計1億回の使用を超えた。また駐車支援機能は10億回を突破。累計補助運転走行距離は141億km、総走行距離は406億km超。7月の月間補助運転走行距離は10.6億km、使用時間は1670万時間で、月間アクティブユーザーの94.7%が補助運転を利用。ADS 3.0はエンドツーエンド方式で、地図不要のマップフリー走行を実現。</p><p><a href="https://autonews.gasgoo.com/articles/news/huawei-reports-rapid-adoption-of-qiankun-smart-driving-features-2089708024565620737">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] 全新世代智己L6 Prof. JimmyChoo限定版が予売開始、グローバル初の全線控底盤軿跑</title>
+      <link>https://www.geekcar.com/archives/139954</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/139954</guid>
+      <pubDate>Sun, 23 Aug 2026 17:38:13 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 3/5（全線控底盤は自動運転L3レベル以上に関連するが、L4技術搭載の明確記述が不足。）</p><p>智己の新型スポーティセダンL6が高級デザイナーProf. JimmyChoo とのコラボ限定版で予売開始。グローバル初の全系列標配全線控底盤軿跑を実現。全線控転向、大角度線控后轮转向、大陆MKC2线控制动など最先端アンダーピニング技術搭載。L4級ロボタクシー技術の応用は具体的に記載されていない。</p><p><a href="https://www.geekcar.com/archives/139954">元記事を読む</a></p>]]></description>
+    </item>
   </channel>
 </rss>
