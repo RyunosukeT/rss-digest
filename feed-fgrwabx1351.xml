@@ -5,8 +5,24 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 23:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:03:56 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] 啓境GX7、L3自動運転を標準搭載で予約開始—広汽×華為の戦略車第2弾</title>
+      <link>https://www.geekcar.com/archives/140034</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140034</guid>
+      <pubDate>Fri, 04 Sep 2026 15:38:06 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（L3自動運転を初期段階から搭載する新型車。自動運転新車情報に直結し、必読の対象。）</p><p>広汽と華為乾崑の共同開発による啓境GX7が9月に正式上市を予定し、予約価格は24.99～31.19万元。本車は起点でL3レベルの自動運転機能を搭載し、5人乗りの大型SUVで、20秒での一キーフラット化など業界初の機能を備える。広汽CEOと華為首脳が8月に「次世代スマート自動車」戦略で合意し、両社は七大汽車インテリジェンス솔루션を全て実装する方針。</p><p><a href="https://www.geekcar.com/archives/140034">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] Zeekr自動タクシー、米国14都市に拡大—Waymoフリート参加</title>
+      <link>https://carnewschina.com/2026/09/04/zeekr-robotaxis-hit-american-streets-as-waymo-footprint-reaches-14-cities/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/09/04/zeekr-robotaxis-hit-american-streets-as-waymo-footprint-reaches-14-cities/</guid>
+      <pubDate>Fri, 04 Sep 2026 11:36:19 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（Waymoの自動運転ロボタクシー事業の拡大ニュース。L4レベルの実運用情報として価値あり。）</p><p>ZeekrがWaymoの自動ロボタクシーフリートの一部として、米国14都市に展開。デンバーとサンディエゴが新たに追加。</p><p><a href="https://carnewschina.com/2026/09/04/zeekr-robotaxis-hit-american-streets-as-waymo-footprint-reaches-14-cities/">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] ホライズンロボティクスのJourneyシリーズSoC出荷台数が1500万台超に達成、自動運転チップの業界トップクラス実績</title>
       <link>https://autonews.gasgoo.com/articles/news/horizon-robotics-surpasses-15-million-sets-in-cumulative-journey-series-soc-volume-production-2095348925799424001</link>
