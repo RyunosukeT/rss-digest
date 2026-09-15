@@ -5,8 +5,16 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:10:13 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 禾赛科技とJD.comが提携、LiDARで自動運転レベル4配送車両に対応</title>
+      <link>https://autonews.gasgoo.com/articles/news/hesai-technology-jdcom-deepen-cooperation-on-physical-ai-applications-2099743137739485185</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/hesai-technology-jdcom-deepen-cooperation-on-physical-ai-applications-2099743137739485185</guid>
+      <pubDate>Tue, 15 Sep 2026 15:41:32 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（レベル4自動運転対応の配送車両とLiDAR技術が具体的に紹介されており、自動運転システムの実用化事例として重要。）</p><p>禾赛科技（Hesai Technology）とJD.comが戦略的パートナーシップを発表し、6D全色LiDARなどの3D認識技術で自動配送車両をサポートする。JD.comの第6世代「Lone Wolf Plus」は禾赛のAT系LiDARを搭載し、レベル4自動運転に対応する都市道路での高精度知覚を実現。JDロジスティクスは今後5年で300万台のロボット、100万台の自動運転車両、10万台のドローン購入を計画している。</p><p><a href="https://autonews.gasgoo.com/articles/news/hesai-technology-jdcom-deepen-cooperation-on-physical-ai-applications-2099743137739485185">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] テスラのサイバーキャブ、北京と上海での静的展示を実施</title>
       <link>https://autonews.gasgoo.com/articles/news/tesla-cybercab-set-for-static-displays-in-beijing-and-shanghai-2099426990884302849</link>
