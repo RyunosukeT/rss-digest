@@ -5,8 +5,72 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 21:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:10:42 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] AUMOVIOが分散制動システムの初量産受注を獲得、L5対応まで拡張可能</title>
+      <link>https://autonews.gasgoo.com/articles/news/aumovio-secures-first-production-order-for-new-braking-system-2100848731288416257</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/aumovio-secures-first-production-order-for-new-braking-system-2100848731288416257</guid>
+      <pubDate>Fri, 18 Sep 2026 15:25:39 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（L5対応の制動システムが量産化され、高度自動運転実装の重要部品が実現される。自動運転システムのレベル向上を支える根本的な進展。）</p><p>自動車電子機器メーカーAUMOVIOが次世代電動油圧制動システムを開発し、中国大手メーカーから初量産受注を獲得。デュアルアクチュエータによる完全電子制御を実現し、安全低下時も四輪独立制動を維持できることが特徴。2027年末から量産開始予定で、SAE Level 5（L5）まで対応可能な設計により、高度自動運転システムの信頼性向上に貢献する。</p><p><a href="https://autonews.gasgoo.com/articles/news/aumovio-secures-first-production-order-for-new-braking-system-2100848731288416257">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 東風のLiu氏：単一車両のAIは限界に、車路雲統合が次の成長曲線に</title>
+      <link>https://autonews.gasgoo.com/articles/news/dongfengs-liu-zhifeng-vehicle-ai-nears-long-tail-limits-vehicle-road-cloud-offers-new-growth-2100871537682190336</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/dongfengs-liu-zhifeng-vehicle-ai-nears-long-tail-limits-vehicle-road-cloud-offers-new-growth-2100871537682190336</guid>
+      <pubDate>Fri, 18 Sep 2026 16:56:13 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（L2・L3自動運転システムの実装と開発戦略について、有力メーカーの最新動向が詳述されている。）</p><p>東風モーターのLiu Zhifeng博士は、L2運転支援システムの普及とL3の実装が進む中で、単一車両のAI技術は限界に近づいており、車路雲統合とチップの連携が次の成長の機会となると指摘した。同社は「Tianyuan Intelligence」を中心とした企業向け大規模言語モデルと専用OSを搭載した統合システムを開発中。L3自動運転システムの実装段階での技術的課題と商用成熟度の向上が重要となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/dongfengs-liu-zhifeng-vehicle-ai-nears-long-tail-limits-vehicle-road-cloud-offers-new-growth-2100871537682190336">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] SAIC のMeng氏：真のAI車は単一モデルではなく、ユーザー目標の達成を重視</title>
+      <link>https://autonews.gasgoo.com/articles/news/saics-meng-chao-dont-judge-in-car-ai-by-the-model-it-uses-alone-2100852169464262657</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/saics-meng-chao-dont-judge-in-car-ai-by-the-model-it-uses-alone-2100852169464262657</guid>
+      <pubDate>Fri, 18 Sep 2026 15:39:14 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（AI定義車とSDV・AIVの違いについて明確に述べられており、L3以上の自動運転進化の方向性が理解できる。）</p><p>SAIC Motor のMeng Chao氏は、ソフトウェア定義車（SDV）とAI定義車（AIDV）の違いを強調。AIDV時代では、L2・L3レベルのような事前定義ルールではなく、AI推論による動的な行動生成が中核となり、ユーザー意図を理解して複数機能を統合制御することで、従来にない利用体験を実現する。これは単なる音声アシスタントや特定機能ではなく、車全体の新しい設計パラダイムの転換を意味する。</p><p><a href="https://autonews.gasgoo.com/articles/news/saics-meng-chao-dont-judge-in-car-ai-by-the-model-it-uses-alone-2100852169464262657">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] Sonatus のFang氏：AI搭載車は運転支援を超え、全ライフサイクルの知能化が必要</title>
+      <link>https://autonews.gasgoo.com/articles/news/sonatus-fang-yu-ai-in-cars-should-go-beyond-assisted-driving-and-smart-cockpits-2100870442104827905</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/sonatus-fang-yu-ai-in-cars-should-go-beyond-assisted-driving-and-smart-cockpits-2100870442104827905</guid>
+      <pubDate>Fri, 18 Sep 2026 16:51:53 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（AI搭載車全体の開発プロセス最適化についての見方は参考になるが、自動運転機能そのものの進展には直接関わらない。）</p><p>Sonatus共同創立者のFang Yu氏は、現在のAI車の議論が運転支援とコックピット機能に集中していることに警告し、診断や品質保証など全開発ライフサイクルへのAI統合が本来のAI搭載車には不可欠だと主張。AI技術により、従来は部門ごとに分断されていた開発・テスト・生産・サービス情報を統合し、組織全体の知識活用を促進することが将来の競争力の鍵となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/sonatus-fang-yu-ai-in-cars-should-go-beyond-assisted-driving-and-smart-cockpits-2100870442104827905">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] TrustMotion のFu氏：中央演算への移行で課題はむしろ深刻化、リアルタイム制御が鍵</title>
+      <link>https://autonews.gasgoo.com/articles/news/trustmotions-fu-shen-predictable-tasks-are-key-to-central-computing-2100857785863811073</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/trustmotions-fu-shen-predictable-tasks-are-key-to-central-computing-2100857785863811073</guid>
+      <pubDate>Fri, 18 Sep 2026 16:01:35 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転システムの基盤となるアーキテクチャ設計について述べられているが、L2・L3・L4の機能進展に直接関わる内容は限定的。）</p><p>NXP傘下のTrustMotionの主任システムアーキテクトFu Shen氏は、ドメイン基盤から中央演算型への転換が急速に進む中で、ミリ秒単位のリアルタイム制御と安定性の維持が新たな課題になると指摘した。中央演算の集約化はOTA更新を効率化する一方で、制御応答遅延の増加とECU統合による複雑性増加という課題が残る。システム信頼性の向上が自動運転システムの実装に必須となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/trustmotions-fu-shen-predictable-tasks-are-key-to-central-computing-2100857785863811073">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] Neusoft Reach のXiang氏：AI時代のOS は安定性基盤が重要、100種以上チップに対応</title>
+      <link>https://autonews.gasgoo.com/articles/news/neusoft-reachs-xiang-wenling-ai-os-needs-a-stronger-base-neusar-os-supports-100-chips-2100856651543642113</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/neusoft-reachs-xiang-wenling-ai-os-needs-a-stronger-base-neusar-os-supports-100-chips-2100856651543642113</guid>
+      <pubDate>Fri, 18 Sep 2026 15:57:05 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転OSの進化と安定性について述べられているが、具体的な自動運転機能の進展情報は限定的。）</p><p>Neusoft ReachのXiang Wenling氏は、自動運転システムのさらなる高度化に向け、AI機能を統合する車載OSの役割が進化していると指摘。NeuSAR OSは100種以上の自動車用チップをサポートし、モデル・データ・計算リソース・AIエージェントを統一管理することで、安全性と実時間性能を両立させる必要があるとした。基盤ソフトウェアの堅牢性がAI定義車の成否を左右する。</p><p><a href="https://autonews.gasgoo.com/articles/news/neusoft-reachs-xiang-wenling-ai-os-needs-a-stronger-base-neusar-os-supports-100-chips-2100856651543642113">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] FAW のJiang氏：AI時代、自動車基盤ソフトウェアは適応型から資源管理型へ転換</title>
+      <link>https://autonews.gasgoo.com/articles/news/faws-jiang-shan-ai-calls-for-automotive-software-to-shift-from-adaptation-to-resource-management-2100842355191353344</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/faws-jiang-shan-ai-calls-for-automotive-software-to-shift-from-adaptation-to-resource-management-2100842355191353344</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:17 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転システム実装の基盤技術について述べられているが、具体的な機能進展は記載されていない。）</p><p>FAW R&amp;D研究所のJiang Shan氏は、AI時代の到来に伴い、自動車基盤ソフトウェアの役割が従来の適応型から異種リソース（CPU・GPU・NPU・MCU）の統合管理型へ根本的に転換すると主張。コンパイラ・ランタイム・ツールチェーン・AI モデル生態系の統合により、安定した計算処理能力を実現することが高度自動運転システム実装の鍵となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/faws-jiang-shan-ai-calls-for-automotive-software-to-shift-from-adaptation-to-resource-management-2100842355191353344">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] 開発サイクル12ヶ月化により、部品メーカーの検証期間はわずか3～4ヶ月に圧縮</title>
+      <link>https://autonews.gasgoo.com/articles/news/12-month-vehicle-development-cycles-leave-suppliers-just-34-months-for-validation-2100840089524797441</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/12-month-vehicle-development-cycles-leave-suppliers-just-34-months-for-validation-2100840089524797441</guid>
+      <pubDate>Fri, 18 Sep 2026 14:51:13 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転システム搭載車の開発プロセス課題について述べられているが、機能進展そのものについては触れられていない。）</p><p>Gasgoo自動車研究所のWang Xianbin氏は、新型車開発サイクルが12ヶ月に短縮された中国市場で、部品メーカーに与えられる検証・認証期間は3～4ヶ月に圧縮されている現状を指摘。効率化の余地が消尽した段階で、開発期間短縮の代償として品質検証が最後の削減対象になる危険性を警告。自動運転システムなど高度機能の搭載が増加する一方で、検証リソース不足が新たなリスク要因となっている。</p><p><a href="https://autonews.gasgoo.com/articles/news/12-month-vehicle-development-cycles-leave-suppliers-just-34-months-for-validation-2100840089524797441">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] テスラがModel Y Lのマニュアル仕様を密かに改訂、リアサスペンション故障報告後</title>
       <link>https://carnewschina.com/2026/09/17/tesla-caught-quietly-altering-model-y-l-manual-specs-following-rear-suspension-collapse-reports/</link>
