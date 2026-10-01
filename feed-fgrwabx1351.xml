@@ -5,8 +5,24 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 21:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:10:51 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] 天工07が正式予約開始、激光雷ダー搭載の自動運転5.0対応</title>
+      <link>https://www.geekcar.com/archives/140176</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140176</guid>
+      <pubDate>Wed, 30 Sep 2026 20:46:40 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（激光�レーダーを活用した高度な自動運転補助システム搭載の新車。L3相当の自動運転機能の実装例として最も関連性が高い）</p><p>红旗天工ブランドの新型セダン「天工07」が9月21日に予約を開始した。同車は高通8397チップを搭載した最新座舱システムを採用し、レーザーレーダーと視覚の融合型感知で赤旗司南智驾5.0に対応している。384線動的可変焦点激光雷ダーにより最大600m先まで検知でき、高速走行時の悪天候や夜間でも正確に周囲環境を認識可能。今後、複雑な山道での自動運転機能を実際に検証する予定。</p><p><a href="https://www.geekcar.com/archives/140176">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 荣威家越07が豆包座舱助手を初搭載、9月21日より予約開始</title>
+      <link>https://www.geekcar.com/archives/140189</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140189</guid>
+      <pubDate>Wed, 30 Sep 2026 20:51:25 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（自動運転補助機能Momenta R7搭載の新車で、AI座舱システムの実装例として参考価値がある）</p><p>上汽荣威と火山引擎の共同開発による「荣威家越07」が9月21日に予約開始された。同車は業界初となる豆包座舱助手を搭載し、AIが車内の人員状態や音声を認識して自然な対話を実現する。Momenta R7の高度な自動運転補助機能も搭載され、自然言語での複雑な指示を複数の行動に変換して実行可能。予約価格は13.78～15.28万元で、最大62,899元相当の購入特典を提供している。</p><p><a href="https://www.geekcar.com/archives/140189">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] 奇瑞ジェットゥール G700、ファーウェイADS 5.0搭載で発表</title>
       <link>https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched-with-huawei-ads-5-0/</link>
@@ -470,22 +486,6 @@
       <pubDate>Thu, 27 Aug 2026 13:47:26 GMT</pubDate>
       <category>GeekCar</category>
       <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（自動運転L2レベルのシステム搭載が標準化する重要な転換点。座舱・自動運転融合技術の普及動向を示す。）</p><p>艾瑞咨询の報告によれば、車線級SR（スーパーリアルスティック）導航が規模量産の価値実現段階に入った。座舱・自動運転ドメイン融合により、従来の経路案内から実時間実景表示への進化を実現。L2以上の搭載率が60%超となり、市場条件が整った。2026年に十数款以上が搭載予定で、高端から中低端への展開が加速。百度地図が1200万km、300万個路口の車線級データと1300万km超のSR導航カバレッジで業界トップ。</p><p><a href="https://www.geekcar.com/archives/139980">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] Afariが上半期売上51.2億元、知能運転部門が急成長で売上24.3%占有</title>
-      <link>https://autonews.gasgoo.com/articles/news/afari-technology-h1-revenue-hits-rmb-512b-net-profit-soars-151-2092505672993492993</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/afari-technology-h1-revenue-hits-rmb-512b-net-profit-soars-151-2092505672993492993</guid>
-      <pubDate>Wed, 26 Aug 2026 14:53:13 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転L2~L3レベルのG-ASD 4.0システムの量産展開と市場成長を示す重要な実績。）</p><p>Afari Technologyは上半期売上5.12億元（前年比22.36%増）、純利益は151.25%増加。知能運転セグメントが1.235億元（全売上の24.3%）を達成し、16車型で93%ユーザー激活率を実現。G-ASD 4.0システムが量産展開され、ZEEKR、Lynk &amp; Co、Geely Galaxy、smartなど複数ブランドに搭載。同社はハイレベル自動運転市場シェアで業界トップ層に位置付けられている。</p><p><a href="https://autonews.gasgoo.com/articles/news/afari-technology-h1-revenue-hits-rmb-512b-net-profit-soars-151-2092505672993492993">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 華為乾崑スマートドライビング、ゲート・ツー・ゲート機能が1億回使用を突破</title>
-      <link>https://autonews.gasgoo.com/articles/news/huawei-reports-rapid-adoption-of-qiankun-smart-driving-features-2089708024565620737</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/huawei-reports-rapid-adoption-of-qiankun-smart-driving-features-2089708024565620737</guid>
-      <pubDate>Tue, 18 Aug 2026 21:36:24 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（華為ADS系統の実装状況と使用統計。L2～L3級の補助運転機能の広範な普及状況を示し、自動運転市場動向の把握に有用。）</p><p>華為乾崑智駕システムのゲート・ツー・ゲート機能が累計1億回の使用を超えた。また駐車支援機能は10億回を突破。累計補助運転走行距離は141億km、総走行距離は406億km超。7月の月間補助運転走行距離は10.6億km、使用時間は1670万時間で、月間アクティブユーザーの94.7%が補助運転を利用。ADS 3.0はエンドツーエンド方式で、地図不要のマップフリー走行を実現。</p><p><a href="https://autonews.gasgoo.com/articles/news/huawei-reports-rapid-adoption-of-qiankun-smart-driving-features-2089708024565620737">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
