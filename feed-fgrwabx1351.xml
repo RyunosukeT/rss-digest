@@ -5,8 +5,24 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:10:27 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] iCAR V27長航続距離版上市、300km純電走行と先進運転支援機能搭載</title>
+      <link>https://www.geekcar.com/archives/140197</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140197</guid>
+      <pubDate>Fri, 02 Oct 2026 07:03:34 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（L2自動運転相当の全シーン駐車支援と先進運転支援機能搭載。読者が追いたい自動運転技術情報が豊富。）</p><p>iCAR V27長航続距離版が上市され、価格は18.98万〜20.38万元。51.2kWh大容量増程専用電池で300km（CLTC）の純電走行距離を実現。同級唯一の「全シーン駐車支援」を含む先進運転支援機能を搭載し、OTA大型アップデートにより全シーンで切れ目なく動作。長距離走行では45.79%の高熱効率1.5Tエンジンで1300km以上の総合航続距離を確保。</p><p><a href="https://www.geekcar.com/archives/140197">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] フォルクスワーゲン ID. Aura T6、中国で納車開始。660km航続距離</title>
+      <link>https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range/</guid>
+      <pubDate>Fri, 02 Oct 2026 09:49:40 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（電動SUVの新モデル情報。自動運転情報は記載されていないが、新型EV車の市場投入は注視対象。）</p><p>フォルクスワーゲンのID. Aura T6ミッドサイズ電動SUVが中国で納車を開始した。最大660kmのCLTC航続距離を備え、19,375米ドルからの価格設定となっている。電動SUVの新モデル投入により、中国市場でのEV展開を加速させる。</p><p><a href="https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range/">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] 天工07が正式予約開始、激光雷ダー搭載の自動運転5.0対応</title>
       <link>https://www.geekcar.com/archives/140176</link>
@@ -470,22 +486,6 @@
       <pubDate>Wed, 19 Aug 2026 11:00:22 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（自動運転プラットフォム開発で、L3/L4級の実現を目指す。ASIL D認証など安全標準への適合が強調されており、自動運転システムの具体的進展として重要。）</p><p>Momenta、XHEART、QNXが協力し、機能安全ISO 26262 ASIL D認証を取得した自動運転プラットフォムを開発した。Momentaの完全スタック自動運転技術、XHEARTのX7 SoC、QNX OSを統合した本製品対応ソリューション。TÜV Rheinland認証を取得し、EU規格UN Regulation 171対応を目指している。国際市場進出を希望するOEMに向けた、厳格な安全基準を満たすプラットフォム。</p><p><a href="https://autonews.gasgoo.com/articles/news/momenta-xheart-qnx-partner-on-safety-certified-physical-ai-driving-platform-2089910348512776193">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] FORVIA HELLA Ignite と51Simがグローバル規制対応の自動運転検証ケイパビリティを構築</title>
-      <link>https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968</guid>
-      <pubDate>Fri, 28 Aug 2026 22:44:08 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転システムの開発・検証インフラとして重要。EU進出時の規制対応も自動運転関連で高い価値がある。）</p><p>FORVIA HELLA IgniteとシミュレーションプラットフォームFirm 51Simが戦略的提携を締結し、グローバル規制フレームワーク対応の自動運転検証システムを構築する。EU規制UN R157/R185などの型式認可要件に対応し、規制準拠の完全検証ループ「規制ルール→交通シナリオ→シミュレーション→適合評価→認証証拠」を実現する。中国企業のグローバル展開において欧州進出の障壁となる認証要件クリアに不可欠なソリューション。</p><p><a href="https://autonews.gasgoo.com/articles/news/forvia-hella-ignite-partners-with-51sim-to-build-intelligent-driving-validation-capabilities-for-glo-2093348935652691968">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 車線級SR導航が規模量産段階へ、L2以上搭載率6割超で市場条件成熟</title>
-      <link>https://www.geekcar.com/archives/139980</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/139980</guid>
-      <pubDate>Thu, 27 Aug 2026 13:47:26 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（自動運転L2レベルのシステム搭載が標準化する重要な転換点。座舱・自動運転融合技術の普及動向を示す。）</p><p>艾瑞咨询の報告によれば、車線級SR（スーパーリアルスティック）導航が規模量産の価値実現段階に入った。座舱・自動運転ドメイン融合により、従来の経路案内から実時間実景表示への進化を実現。L2以上の搭載率が60%超となり、市場条件が整った。2026年に十数款以上が搭載予定で、高端から中低端への展開が加速。百度地図が1200万km、300万個路口の車線級データと1300万km超のSR導航カバレッジで業界トップ。</p><p><a href="https://www.geekcar.com/archives/139980">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
