@@ -5,8 +5,40 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 21:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:10:26 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] 小鵬がロボタクシーサービス「Yoyo」を中国で招待制パイロット開始</title>
+      <link>https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china/</guid>
+      <pubDate>Thu, 08 Oct 2026 15:22:13 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 5/5（完全自動運転（L4/L5相当）ロボタクシーの実運用段階への移行。公開パイロット開始は商用化への重要なマイルストーン。高い関心対象。）</p><p>小鵬は10月8日、ロボタクシーサービスを「小鹏悠遊（Yoyo）」と命名し、中国で招待制のパイロットプログラムを開始した。従業員による試乗は既に2200回以上実施されており、外部ユーザーへの拡大テストに向けて準備が進んでいる。5月に生産モデルが完成、7月に従業員テストに入り、8月に広州の指定道路での無人運転試験許可を取得している。</p><p><a href="https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china/">元記事を読む</a></p><p>同じ話題の他の記事:</p><ul><li><a href="https://autonews.gasgoo.com/articles/news/xpeng-names-robotaxi-service-xpeng-yoyo-2108071881306759168">XPENG names Robotaxi service 'XPENG YOYO'</a>（Gasgoo）</li></ul>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 全新領克20が発売、自動運転L2レベルの運転支援システムを全系統搭載</title>
+      <link>https://www.geekcar.com/archives/140223</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140223</guid>
+      <pubDate>Thu, 08 Oct 2026 16:07:33 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（L2級運転支援システムを全車標準装備する新型EV。LiDARとセンサーフュージョン、高性能チップの採用により自動運転技術の進展を示す重要な事例。）</p><p>領克が9月28日に新型EV SUV「領克20」を11.88万元からの価格で発売した。SEA浩瀚電動プラットフォームに基づき、全車にLiDAR、千里浩瀚H5運転支援システム、800V高圧プラットフォームなどの上位クラス並みの装備を標準装備している。ホライズン・ロボティクスのJourneyチップ（演算性能128TOPS）を搭載し、28個のセンサーで複雑な運転シーンに対応する。都市若年層向けに智能化、駆行性能、品質を統合した体験を提供する。</p><p><a href="https://www.geekcar.com/archives/140223">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 神龍科技とMomentaが戦略提携、L2/L3自動運転とAIエージェントの共同開発を開始</title>
+      <link>https://www.geekcar.com/archives/140204</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140204</guid>
+      <pubDate>Thu, 08 Oct 2026 15:20:34 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（L2からL3/L4へのアップグレード開発を視野に入れた重要な提携。ワールドモデルとエンドツーエンド技術の実装は自動運転の質的進化を示す。）</p><p>神龍科技とMomentaが9月24日、グローバル戦略提携を締結した。標致、シトロエン、ジープブランドの底盤調校経験とMomentaの物理AI技術を統合し、運転支援機能から高度自動運転まで長期協力する。Momentaの最新ワールドモデルとエンドツーエンド智能運転支援、AIコントロール指令に基づく自律的意思決定を実装。冰雪路面やオフロード対応の精細な輪端制御も開発する。</p><p><a href="https://www.geekcar.com/archives/140204">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] 吉利が新世代AI急速充電技術「吉利智充」を発表、単銃峰値出力2250kW達成</title>
+      <link>https://www.geekcar.com/archives/140209</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140209</guid>
+      <pubDate>Thu, 08 Oct 2026 15:39:37 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 3/5（自動運転搭載車の急速充電基盤技術。自動運転車の運用効率を左右する充電インフラの革新だが、直接的な自動運転機能ではない。）</p><p>吉利汽車が9月23日、新世代AI補能技術「吉利智充」を発表した。単銃峰値充電出力2250kWで世界量産最速の補能速度を実現し、最高充電温度を65℃以下に管理、電池サイクル寿命を20%向上させている。星睿PowerMind能源大脳により、AIが電池温度、充電場所、ユーザーの出行習慣を統合的に制御する「人・車・充電器・クラウド・ネットワーク・蓄電」協調架構を構築した。同日、吉利銀河E5も発売開始された。</p><p><a href="https://www.geekcar.com/archives/140209">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] iCAR V27長航続距離版上市、300km純電走行と先進運転支援機能搭載</title>
       <link>https://www.geekcar.com/archives/140197</link>
@@ -454,38 +486,6 @@
       <pubDate>Thu, 27 Aug 2026 13:52:38 GMT</pubDate>
       <category>GeekCar</category>
       <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（自動運転システムの中核となるAI大規模モデルの実質的進化。L4級技術の搭載は読者の最大関心領域。）</p><p>小鹏の第二世代VLAモデルが初の大型アップグレードを実施し、XOS 6.3.0を小鹏G9Lで初公開する。コア改善として、AIが物理空間の3D理解から4D時空理解へ進化し、過去30秒の世界を記憶できるようになった。エンドサイド推論を3.5倍に拡大し、ストリーミング推論導入により応答速度を300%向上させた。X-Foresight予測モデルで6秒先の道路状況を予測可能になり、L4級のロボタクシー体験を量産車にも提供する。</p><p><a href="https://www.geekcar.com/archives/139987">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] 小鹏ロボタクシーが広州で2000件以上の内部テスト完了、2027年の乗客運行開始を目標</title>
-      <link>https://autonews.gasgoo.com/articles/news/xpeng-robotaxi-completes-over-2000-internal-tests-in-guangzhou-targeting-passenger-operations-in-2027-2092501275861336064</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/xpeng-robotaxi-completes-over-2000-internal-tests-in-guangzhou-targeting-passenger-operations-in-2027-2092501275861336064</guid>
-      <pubDate>Wed, 26 Aug 2026 14:35:43 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（L4級自動運転の実運用化に向けた具体的進捗。2027年の商用化見通しは自動運転業界として最重要ニュース。）</p><p>小鹏が量産ロボタクシーで広州において2000件以上の内部テストを完了し、乗客デモンストレーション操業の全フロー走行に成功した。第二世代VLAシステムを搭載し、クラウド基盤介入プラットフォームを開発。2027年に安全監視官なしでの無人乗客運行開始を目標。独ドイツでのローカライゼーションテストも完了し、単一モデルで中欧両地対応を実現。ドイツでのL4技術国際展開交渉も進行中。</p><p><a href="https://autonews.gasgoo.com/articles/news/xpeng-robotaxi-completes-over-2000-internal-tests-in-guangzhou-targeting-passenger-operations-in-2027-2092501275861336064">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] 埃安とファーウェイが協力した超級純電Ray7、L4級ロボタクシー同源大モデル搭載</title>
-      <link>https://www.geekcar.com/archives/139971</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/139971</guid>
-      <pubDate>Mon, 24 Aug 2026 19:01:57 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（L4級自動運転システム同源の大規模言語モデルを量産車に搭載する重要な事例。自動運転の実用化加速を示す。）</p><p>埃安の新型セダンRay7が発表され、ファーウェイとの協力で先進自動運転技術を搭載。192線LiDAR、3個4D mmWレーダー、27個全視角センサーを装備し、文遠知行のL4級ロボタクシー同源大模型を搭載。度電12km、CLTC 700km続航、EMB線控制動技術、iTRACK智能扭矩制御システムなど硬核技術を集約。L4級ロボタクシー技術の量産乗用車への移植を実現。</p><p><a href="https://www.geekcar.com/archives/139971">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] 深藍G318、華為乾崑スマートドライビング搭載で都市走行に対応</title>
-      <link>https://www.geekcar.com/archives/139934</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/139934</guid>
-      <pubDate>Sat, 22 Aug 2026 12:35:01 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（華為ADS 5 Proは高度な自動運転補助システム（L3級相当）。都市部での複雑走行シナリオに対応する最新技術で、読者の強い関心対象。）</p><p>深藍は8月21日に全新G318を発表。華為乾崑智驾ADS 5 Proを搭載し、都市通勤から高速走行まで対応する辅助運転機能を提供する。27個のセンサーによるWEWA 2.0アーキテクチャにより、狭路での三点式Uターンやスマート駐車などの高度な機能を実現。高速走行時は1500km毎に人間介入が必要となる程度の信頼性を持つ。HarmonySpace 5座舱システムも統合し、方言対応の音声助手や多メディア統合を提供。</p><p><a href="https://www.geekcar.com/archives/139934">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] Momenta・XHEART・QNXが安全認証済みの自動運転プラットフォムを開発</title>
-      <link>https://autonews.gasgoo.com/articles/news/momenta-xheart-qnx-partner-on-safety-certified-physical-ai-driving-platform-2089910348512776193</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/momenta-xheart-qnx-partner-on-safety-certified-physical-ai-driving-platform-2089910348512776193</guid>
-      <pubDate>Wed, 19 Aug 2026 11:00:22 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（自動運転プラットフォム開発で、L3/L4級の実現を目指す。ASIL D認証など安全標準への適合が強調されており、自動運転システムの具体的進展として重要。）</p><p>Momenta、XHEART、QNXが協力し、機能安全ISO 26262 ASIL D認証を取得した自動運転プラットフォムを開発した。Momentaの完全スタック自動運転技術、XHEARTのX7 SoC、QNX OSを統合した本製品対応ソリューション。TÜV Rheinland認証を取得し、EU規格UN Regulation 171対応を目指している。国際市場進出を希望するOEMに向けた、厳格な安全基準を満たすプラットフォム。</p><p><a href="https://autonews.gasgoo.com/articles/news/momenta-xheart-qnx-partner-on-safety-certified-physical-ai-driving-platform-2089910348512776193">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
