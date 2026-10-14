@@ -5,8 +5,16 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 21:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:10:18 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 2代目BYD Seagull、LiDAR搭載で10月20日発表予定、車体を拡大</title>
+      <link>https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/</guid>
+      <pubDate>Wed, 14 Oct 2026 04:13:41 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（LiDAR搭載により自動運転機能の強化が推定され、新型車の自動運転スペックの詳細情報は重要。）</p><p>BYDが2代目Seagullを10月20日に発表する。LiDAR（光検出・測距）センサーを新たに搭載し、ボディサイズも拡大している。自動運転機能の強化を示唆するLiDARの搭載により、自動運転レベルの向上が期待される。</p><p><a href="https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] Valeo CEO：自動運転技術の市場投入スピードが競争の焦点に</title>
       <link>https://autonews.gasgoo.com/articles/news/valeo-ceo-faster-development-reshapes-the-race-to-bring-automotive-technology-to-market-2109989767248048128</link>
@@ -478,14 +486,6 @@
       <pubDate>Sat, 05 Sep 2026 14:24:04 GMT</pubDate>
       <category>GeekCar</category>
       <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（中国国営企業が自社開発した自動運転システムの量産化。エンドツーエンド学習で動作する中国製システムの重要な事例。）</p><p>長安汽車が自社開発の「天枢領航」スマート運転支援システムを発表し、新型SUV「長安啓源Q06」が予売を開始した。予売抢订価は14.79万元から。Q06は天枢領航Ultraを搭載し、全系激光レーダー、端到端の大モデルで、高速・都市部・駐車などの各種シーンに対応。長安は智能化領域に600億元以上を投入し、7500人以上の専門チームを構築している。</p><p><a href="https://www.geekcar.com/archives/140044">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] 啓境GX7、L3自動運転を標準搭載で予約開始—広汽×華為の戦略車第2弾</title>
-      <link>https://www.geekcar.com/archives/140034</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140034</guid>
-      <pubDate>Fri, 04 Sep 2026 15:38:06 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（L3自動運転を初期段階から搭載する新型車。自動運転新車情報に直結し、必読の対象。）</p><p>広汽と華為乾崑の共同開発による啓境GX7が9月に正式上市を予定し、予約価格は24.99～31.19万元。本車は起点でL3レベルの自動運転機能を搭載し、5人乗りの大型SUVで、20秒での一キーフラット化など業界初の機能を備える。広汽CEOと華為首脳が8月に「次世代スマート自動車」戦略で合意し、両社は七大汽車インテリジェンス솔루션を全て実装する方針。</p><p><a href="https://www.geekcar.com/archives/140034">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
