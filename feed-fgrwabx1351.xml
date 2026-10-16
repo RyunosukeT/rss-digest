@@ -5,8 +5,48 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 21:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:10:35 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] JAECOOとMomenta、パリ凱旋門でL2++自動運転チャレンジを完走</title>
+      <link>https://autonews.gasgoo.com/articles/news/jaecoo-and-momenta-complete-l2-driving-challenge-at-pariss-arc-de-triomphe-2110998376476016640</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/jaecoo-and-momenta-complete-l2-driving-challenge-at-pariss-arc-de-triomphe-2110998376476016640</guid>
+      <pubDate>Fri, 16 Oct 2026 15:36:02 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（L2++の実走行実証で、複雑な欧州交通環境での自動運転の具体的な進捗を示す。自動運転開発の最前線。）</p><p>JAECOOとMomentaがパリモーターショー期間中、Momenta R7 World Modelを搭載したJAECOO 7テスト車で凱旋門ラウンドアバウトの11.38km区間を完全自動走行させた。急カーブ、車線なしの道路、複雑な交差点、歩行者・自転車との交流など、欧州の過酷な走行条件での0回タイオーバーL2++走行を実証した。車両はまだ試験検証段階にあり、両社が欧州向けに共同開発する知能運転支援システムのショーケースとなった。</p><p><a href="https://autonews.gasgoo.com/articles/news/jaecoo-and-momenta-complete-l2-driving-challenge-at-pariss-arc-de-triomphe-2110998376476016640">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★★] XPENGが「XPENG AI ENGINEERING」を発表、スマートビークルとフィジカルAIのパートナーシップ展開</title>
+      <link>https://autonews.gasgoo.com/articles/news/xpeng-presents-xpeng-ai-engineering-opens-smart-vehicle-and-physical-ai-partnerships-2110980328427851777</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/xpeng-presents-xpeng-ai-engineering-opens-smart-vehicle-and-physical-ai-partnerships-2110980328427851777</guid>
+      <pubDate>Fri, 16 Oct 2026 14:24:23 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（L3対応のシステムアーキテクチャ、VLA搭載のAI運転システム、安全冗長設計など、自動運転の重要な技術がまとめて展開される。）</p><p>XPENGがパリモーターショーで新事業「XPENG AI ENGINEERING」を発表し、スマートビークル技術とフィジカルAIエコシステムの世界規模での開放型パートナーシップを開始した。10ギガビットイーサネット対応のE/E構造、第2世代VLAベースのTuring AI運転、L3レベルの安全冗長性、15分での全車OTA更新などを提供する。AI BOXは30億パラメータのMoEモデルを搭載し、Turing AIチップと8C超急速充電バッテリーで差別化を図る。</p><p><a href="https://autonews.gasgoo.com/articles/news/xpeng-presents-xpeng-ai-engineering-opens-smart-vehicle-and-physical-ai-partnerships-2110980328427851777">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 理想汽車のチップ子会社MHX Technology、第1次ラウンドで16.25億元の資金調達</title>
+      <link>https://autonews.gasgoo.com/articles/news/li-auto-chip-subsidiary-signs-rmb-1625-billion-first-round-financing-agreement-2111033483366785025</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/li-auto-chip-subsidiary-signs-rmb-1625-billion-first-round-financing-agreement-2111033483366785025</guid>
+      <pubDate>Fri, 16 Oct 2026 17:55:12 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転システムに必要なAIチップ開発の重要な進展。L3/L4向けのドメインコントローラーやチップ開発が加速する。）</p><p>理想汽車のチップ子会社Shanghai Mahe Xin Technology（MHX Technology）が16.25億元の第1次融資ラウンドを完了し、杭州経涛などが主導投資家として参加した。融資後の企業評価額は171億元に達し、理想汽車は74.01%の株式を保有し続ける。MHX Technologyはチップとドメインコントローラーの開発・商用化を加速させるほか、自動車以外のアプリケーション展開も計画している。同社は独自開発のMach M100チップで、AI推論に特化した全スタック エッジAIプラットフォームを構築している。</p><p><a href="https://autonews.gasgoo.com/articles/news/li-auto-chip-subsidiary-signs-rmb-1625-billion-first-round-financing-agreement-2111033483366785025">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] NavInfo、北京「車路雲一体化」4.0プロジェクトで路側センシング装備の入札落札</title>
+      <link>https://autonews.gasgoo.com/articles/news/navinfo-wins-bid-for-beijing-dual-intelligence-city-40-roadside-sensing-project-2110979602792288257</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/navinfo-wins-bid-for-beijing-dual-intelligence-city-40-roadside-sensing-project-2110979602792288257</guid>
+      <pubDate>Fri, 16 Oct 2026 14:21:31 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（車路雲一体化インフラの商用化進展で、L3/L4自動運転の実現に必要なロードサイドインフラが整備されている。）</p><p>NavInfoが北京市房山区の「車路雲一体化」4.0プロジェクトで、路側知能認識装備供給契約（約1.0026億元）を獲得した。398カ所の交差点、190km²の地域をカバーし、データをスマートシティ・交通管理プラットフォームに送信する。前段階の3.0プロジェクトから「空間時間基盤」から「認識デリバリー」へ移行し、高精度マップと路側データを活用したエンドツーエンド能力チェーン構築を進めている。</p><p><a href="https://autonews.gasgoo.com/articles/news/navinfo-wins-bid-for-beijing-dual-intelligence-city-40-roadside-sensing-project-2110979602792288257">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] 吉利とGoogleが車載デジタルサービスで戦略的パートナーシップ、2027年下半期開始</title>
+      <link>https://autonews.gasgoo.com/articles/news/geely-holding-google-partner-on-in-car-digital-services-for-overseas-models-2111001557339766784</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/geely-holding-google-partner-on-in-car-digital-services-for-overseas-models-2111001557339766784</guid>
+      <pubDate>Fri, 16 Oct 2026 15:48:54 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転対応車の情報システム面での進化だが、自動運転機能そのものではなく、インフォテインメント領域の拡張。）</p><p>吉利ホールディングがGoogleとの世界規模の戦略的パートナーシップを発表し、海外市場の対象モデルにGemini、Googleマップ、Google Play等のサービスを統合する。最初のモデルは2027年下半期の投入を予定しており、吉利、Lynk &amp; Co、Proton、Riddara、smartなど複数ブランドに拡大される予定。音声対話、ナビゲーション、アプリケーションアクセス、クロスデバイス連携などのマルチモーダルAI機能を提供する。</p><p><a href="https://autonews.gasgoo.com/articles/news/geely-holding-google-partner-on-in-car-digital-services-for-overseas-models-2111001557339766784">元記事を読む</a></p><p>同じ話題の他の記事:</p><ul><li><a href="https://carnewschina.com/2026/10/16/geely-cars-to-get-google-gemini-maps-and-play-globally-in-h2-2027/">Geely cars to get Google Gemini, Maps, and Play globally in H2 2027</a>（CarNewsChina）</li></ul>]]></description>
+    </item>
     <item>
       <title>[★★★★★] 滴滴自動運転、次世代ロボタクシーR2に熱画像センサー搭載へ</title>
       <link>https://autonews.gasgoo.com/articles/news/didi-raytron-advance-thermal-imaging-for-next-gen-robotaxis-in-2026-2110575962206199808</link>
@@ -446,46 +486,6 @@
       <pubDate>Thu, 10 Sep 2026 08:30:01 GMT</pubDate>
       <category>GeekCar</category>
       <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（AI全地形デジタルシャシーは自動運転L2相当の知能化制御技術。新型車への搭載で自動運転関連技術の進化を示す。）</p><p>吉利自動車がAI新能源越野技術を発表。GTA原生新能源越野アーキテクチャ、全駆AI電混雷神EM-T、AI全地形デジタルシャシーの3つの世界初技術を搭載した銀河戦艦700で実現。車身剛性40000N·m/deg以上、推重比392Ps/Tを達成し、全地形での高精度な走行制御を可能にする。</p><p><a href="https://www.geekcar.com/archives/140073">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] ニュービジョン、大手ドイツ自動車メーカーのHUDプロジェクトを受注</title>
-      <link>https://autonews.gasgoo.com/articles/news/new-vision-secures-first-hud-project-nomination-from-leading-global-german-automaker-2098044842432348161</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/new-vision-secures-first-hud-project-nomination-from-leading-global-german-automaker-2098044842432348161</guid>
-      <pubDate>Thu, 10 Sep 2026 21:43:57 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（HUDは自動運転向けの補助表示技術。新車搭載拡大の動きだが、直接的な自動運転システムではない。）</p><p>ニュービジョンが大手ドイツ自動車メーカーの部品供給網に初めて選定され、グローバルモデル向けのヘッドアップディスプレイ（HUD）プロジェクトを獲得した。量産開始は2028年予定。同社のAR-HUD「CyberVision」製品の売上は2026年上期に前年比127.8%増の約18万台に達し、24社の顧客と115車種の設計勝利を達成している。</p><p><a href="https://autonews.gasgoo.com/articles/news/new-vision-secures-first-hud-project-nomination-from-leading-global-german-automaker-2098044842432348161">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] Pony.aiとMowasalat、ドーハで完全自動運転ロボタクシーサービス開始</title>
-      <link>https://autonews.gasgoo.com/articles/news/ponyai-mowasalat-launch-fully-driverless-robotaxi-rides-in-doha-2097526497610125313</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/ponyai-mowasalat-launch-fully-driverless-robotaxi-rides-in-doha-2097526497610125313</guid>
-      <pubDate>Wed, 09 Sep 2026 11:24:11 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（L4レベルの完全自動運転ロボタクシーが国際的に商用展開。自動運転技術の実現例として最も重要な情報。）</p><p>Pony.aiとカタール国営運輸企業Mowasalatが、ドーハで完全無人のロボタクシーサービスの商用運営を開始した。2025年8月の公道試験から4ヶ月で商用化を達成し、歴史地区・中心部・空港接続等で日常運用されている。運輸省は乗客満足度と安全性能が期待を上回ったと発表。中国外での大規模商用展開第一号。</p><p><a href="https://autonews.gasgoo.com/articles/news/ponyai-mowasalat-launch-fully-driverless-robotaxi-rides-in-doha-2097526497610125313">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] Freetechの「Fuxing」プラットフォーム、量産開始で2026年に10万台超を予定</title>
-      <link>https://autonews.gasgoo.com/articles/news/freetech-fuxing-new-platform-officially-enters-mass-production-2097584783504007169</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/freetech-fuxing-new-platform-officially-enters-mass-production-2097584783504007169</guid>
-      <pubDate>Wed, 09 Sep 2026 15:15:54 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（自動運転プラットフォームで複数メーカーへの展開が進む重要なシステム。L2〜L3レベルの知覚・判断機能に関わる技術。）</p><p>Freetechが新型「Fuxing」インテリジェント運転プラットフォームの量産開始を発表した。複雑な交通環境での高精度知覚と多層安全アーキテクチャを備え、乗用車・商用車の複数アーキテクチャに対応可能。既に大手自動車メーカーから受注を獲得しており、2026年に10万台超の納入を見込んでいる。</p><p><a href="https://autonews.gasgoo.com/articles/news/freetech-fuxing-new-platform-officially-enters-mass-production-2097584783504007169">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] Senior Autoが戦略投資を調達、大型トラック自動運転システムの拡張を加速</title>
-      <link>https://autonews.gasgoo.com/articles/news/senior-auto-secures-strategic-investment-from-yueda-capital-2097535678215970816</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/senior-auto-secures-strategic-investment-from-yueda-capital-2097535678215970816</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:46 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（商用車の自動運転システム開発企業で、L4レベルに近い自動運転技術の進展が関心対象。実営業展開も進行中。）</p><p>大型トラック向け自動運転システム企業Senior Autoが、江蘇ユエダグループの傘下Yueda Capitalから戦略投資を獲得した。資金は世界モデルのアップグレード、自動運転システムの最適化、運用シナリオ拡張に充当される。自動車レベルのエンジニアリング能力と大規模導入能力の強化が目指される。</p><p><a href="https://autonews.gasgoo.com/articles/news/senior-auto-secures-strategic-investment-from-yueda-capital-2097535678215970816">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] 奕境X9、華為ADS5搭載の旗艦SUV、全国展開で9月下旬正式上市</title>
-      <link>https://www.geekcar.com/archives/140057</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140057</guid>
-      <pubDate>Sat, 05 Sep 2026 17:55:05 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（華為ADS5搭載の新型自動運転対応SUVの詳細情報。L2レベルの自動運転システムが標配される重要な新車発表。）</p><p>東風と華為が共創したプレミアム車ブランド「奕境」が、初の旗艦SUV「奕境X9」の予約販売を開始した。予売24時間で2万台超の注文を獲得し、全国で百店舗の展示施設を展開する。X9は華為乾崑ADS5搭載の自動運転L2以上の機能を備え、896線双光路激光レーダーを標配、5大領域（智驾・座舱・駕控・空間・安全）で同級車を上回る。9月下旬の正式上市に向け、各地で試乗・体験イベントが予定されている。</p><p><a href="https://www.geekcar.com/archives/140057">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
