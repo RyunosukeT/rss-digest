@@ -5,8 +5,16 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 21:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:10:55 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 奇瑞が2026年グローバル創新大会を開催、AI搭載Robotaxi初公開</title>
+      <link>https://www.geekcar.com/archives/140260</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140260</guid>
+      <pubDate>Sun, 18 Oct 2026 15:04:52 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（Robotaxi初公開と大規模モデル・車載チップ発表は自動運転の最新動向を知る上で重要。ただし詳細スペックの記載がないため4点。）</p><p>奇瑞は10月20日に「Change」をテーマとした2026年グローバル創新大会を芜湖で開催し、自動車メーカーからAI駆動のグローバル知能科技企業への転換を発表する。業界初の自動車業界専用の大規模モデルと車載規格チップを展示し、業界初のグローバル向けネイティブ前装Robotaxiも初公開予定。会場に「未来都市」を構築し、Robotaxiと交通信号機ロボットの協調デモンストレーションなど、未来のモビリティを体験できるようにする。</p><p><a href="https://www.geekcar.com/archives/140260">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] 中国MIIT、AI「産業ロードマップ」を発表、自動車を重点支援分野に指定</title>
       <link>https://autonews.gasgoo.com/articles/news/miit-releases-ai-industry-roadmap-automotive-listed-as-key-empowerment-area-2111354480578146305</link>
@@ -478,14 +486,6 @@
       <pubDate>Fri, 11 Sep 2026 19:54:54 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（自動運転L4レベルの商用化が欧州で進展。新車展開予定の具体的な情報を含む必読記事。）</p><p>WeRide、Uber、AVOMO（Moove Cars Groupの自動運転部門）がスペイン初のレベル4自動運転旅客車両の営業許可を取得した。マドリッド政府の支援を受けた本許可により、3社は公道での車両展開が可能になる。2026年中のロボタクシー商用サービス開始を目指しており、2030年までに世界15都市での展開と数万台の車両配備を計画している。スペインは欧州最大級のモビリティ市場であり、年間約1億人の観光客が訪れる。</p><p><a href="https://autonews.gasgoo.com/articles/news/weride-uber-avomo-secure-spains-first-l4-autonomous-passenger-vehicle-permit-2098379614081945601">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] Pony.ai、Verneがザグレブで完全無人ロボタクシー試験を開始</title>
-      <link>https://autonews.gasgoo.com/articles/news/ponyai-verne-begin-fully-driverless-robotaxi-passenger-trials-in-zagreb-2098376806108659712</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/ponyai-verne-begin-fully-driverless-robotaxi-passenger-trials-in-zagreb-2098376806108659712</guid>
-      <pubDate>Thu, 10 Sep 2026 18:00:00 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（レベル4相当の完全無人自動運転がヨーロッパで実現。商用化進展の重要な事例。）</p><p>Pony.aiとVerneは9月10日、クロアチアのザグレブで完全無人のロボタクシー乗客試験を開始した。欧州初となる本試験は22kmの路線で実施され、Pony.aiの完全自動運転技術と4年以上のサービス経験に基づく。4月開始時点から200,000km以上走行し、乗客の平均評価は4.7/5。今後、他の路線への拡大を計画している。</p><p><a href="https://autonews.gasgoo.com/articles/news/ponyai-verne-begin-fully-driverless-robotaxi-passenger-trials-in-zagreb-2098376806108659712">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
