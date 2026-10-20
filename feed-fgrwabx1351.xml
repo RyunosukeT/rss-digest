@@ -5,8 +5,16 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 21:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:10:48 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] 理想汽車が「連山」電動技術体系を発表、自動運転対応の次世代EV向け電池・電駆動システムを公開</title>
+      <link>https://www.geekcar.com/archives/140287</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140287</guid>
+      <pubDate>Tue, 20 Oct 2026 16:44:53 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（理想汽車の次世代EV向け自動運転対応技術体系の全面発表。新型車への搭載と技術仕様が明確で、自動運転L2/L3搭載車の今後の動向に直結。）</p><p>理想汽車は2026年10月20日、Power Dayイベントで「連山」電動技術体系を正式発表した。連山電池、連山電駆、超充設備、自建超充ネットワークを統合し、10分間の充電で500km航続可能な5C超充を実現する。レンジエクステンダー・EV双方に対応し、電池安全保障計画を導入。2027年春前に超充ステーション8,300基まで拡充予定。</p><p><a href="https://www.geekcar.com/archives/140287">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] イー・ジングEV版、工信部申報完了、11月初公開予定</title>
       <link>https://www.geekcar.com/archives/140283</link>
@@ -478,14 +486,6 @@
       <pubDate>Wed, 16 Sep 2026 17:50:43 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（L2以上自動運転システム向けの重要コンポーネント（スマートシャシ）開発。関連性あるが新車発表なし。）</p><p>United Nova Technology（UNT）は吉林大学とスマートシャシチップの共同開発で戦略パートナーシップを締結し、「シャシチップ共同開発実験室」を設立した。スマートシャシは高度自動運転の重要なアクチュエータ兼安全基盤とみなされている。レベル2以上の自動運転システム普及に伴い、電動化・ステアバイワイア・インテリジェントシャシが業界アップグレードの重要方向となっている。</p><p><a href="https://autonews.gasgoo.com/articles/news/unt-and-jilin-university-form-strategic-partnership-to-jointly-develop-smart-chassis-chips-2100160457695735809">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 禾赛科技とJD.comが提携、LiDARで自動運転レベル4配送車両に対応</title>
-      <link>https://autonews.gasgoo.com/articles/news/hesai-technology-jdcom-deepen-cooperation-on-physical-ai-applications-2099743137739485185</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/hesai-technology-jdcom-deepen-cooperation-on-physical-ai-applications-2099743137739485185</guid>
-      <pubDate>Tue, 15 Sep 2026 15:41:32 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（レベル4自動運転対応の配送車両とLiDAR技術が具体的に紹介されており、自動運転システムの実用化事例として重要。）</p><p>禾赛科技（Hesai Technology）とJD.comが戦略的パートナーシップを発表し、6D全色LiDARなどの3D認識技術で自動配送車両をサポートする。JD.comの第6世代「Lone Wolf Plus」は禾赛のAT系LiDARを搭載し、レベル4自動運転に対応する都市道路での高精度知覚を実現。JDロジスティクスは今後5年で300万台のロボット、100万台の自動運転車両、10万台のドローン購入を計画している。</p><p><a href="https://autonews.gasgoo.com/articles/news/hesai-technology-jdcom-deepen-cooperation-on-physical-ai-applications-2099743137739485185">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
