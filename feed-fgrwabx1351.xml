@@ -5,8 +5,24 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 21:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:10:26 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] 東風風神L8+が700TOPSチップ搭載で15万元級の最高性能自動運転を実現</title>
+      <link>https://www.geekcar.com/archives/140309</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140309</guid>
+      <pubDate>Fri, 23 Oct 2026 16:32:21 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（700TOPS演算性能、Momenta R7搭載、完全自動駐車、HDマップ不要NOA実装。L3相当の高度な自動運転システムが15万元級で実現。極めて注目度が高い。）</p><p>東風風神L8+は10月23日に限定時間置換価12.99万～15.99万元で発売。英伟達Thor-U 700TOPSチップとMomenta R7ワールドモデルを搭載し、15万元級で唯一の700TOPS演算性能を実現する。HDマップ不要のNOA、ロボタクシー級の自動駐車、4段階ハイブリッドシステムで航続距離1500kmを超える。智驾珠峰108拐で完全自動運転をデモンストレーション。</p><p><a href="https://www.geekcar.com/archives/140309">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] タンク500新型、VLA大規模モデル搭載で10月23日に正式発売</title>
+      <link>https://www.geekcar.com/archives/140315</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140315</guid>
+      <pubDate>Fri, 23 Oct 2026 16:43:10 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（VLA大規模モデル搭載の運転支援システム実装が注目。新車情報として価値があり、L2相当の高度な機能を備える。）</p><p>タンク500の27型が10月23日に33.5万～37.5万元で発売された。VLA大規模モデル搭載の全域運転支援システムを標準装備し、296項目のハードウェア・ソフトウェア最適化を実施している。コックピットの大幅刷新、デザイン工学、安全性の向上により、価格据え置きで充実した豪華SUVを実現した。運転支援システムの生涯無料利用特典も付与される。</p><p><a href="https://www.geekcar.com/archives/140315">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] WeRideがマドリードでロボタクシーサービスを2026年末までに開始予定</title>
       <link>https://autonews.gasgoo.com/articles/news/weride-targets-madrid-robotaxi-service-launch-by-end-2026-2113200818395688961</link>
@@ -470,22 +486,6 @@
       <pubDate>Fri, 18 Sep 2026 16:01:35 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転システムの基盤となるアーキテクチャ設計について述べられているが、L2・L3・L4の機能進展に直接関わる内容は限定的。）</p><p>NXP傘下のTrustMotionの主任システムアーキテクトFu Shen氏は、ドメイン基盤から中央演算型への転換が急速に進む中で、ミリ秒単位のリアルタイム制御と安定性の維持が新たな課題になると指摘した。中央演算の集約化はOTA更新を効率化する一方で、制御応答遅延の増加とECU統合による複雑性増加という課題が残る。システム信頼性の向上が自動運転システムの実装に必須となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/trustmotions-fu-shen-predictable-tasks-are-key-to-central-computing-2100857785863811073">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] Neusoft Reach のXiang氏：AI時代のOS は安定性基盤が重要、100種以上チップに対応</title>
-      <link>https://autonews.gasgoo.com/articles/news/neusoft-reachs-xiang-wenling-ai-os-needs-a-stronger-base-neusar-os-supports-100-chips-2100856651543642113</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/neusoft-reachs-xiang-wenling-ai-os-needs-a-stronger-base-neusar-os-supports-100-chips-2100856651543642113</guid>
-      <pubDate>Fri, 18 Sep 2026 15:57:05 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転OSの進化と安定性について述べられているが、具体的な自動運転機能の進展情報は限定的。）</p><p>Neusoft ReachのXiang Wenling氏は、自動運転システムのさらなる高度化に向け、AI機能を統合する車載OSの役割が進化していると指摘。NeuSAR OSは100種以上の自動車用チップをサポートし、モデル・データ・計算リソース・AIエージェントを統一管理することで、安全性と実時間性能を両立させる必要があるとした。基盤ソフトウェアの堅牢性がAI定義車の成否を左右する。</p><p><a href="https://autonews.gasgoo.com/articles/news/neusoft-reachs-xiang-wenling-ai-os-needs-a-stronger-base-neusar-os-supports-100-chips-2100856651543642113">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] FAW のJiang氏：AI時代、自動車基盤ソフトウェアは適応型から資源管理型へ転換</title>
-      <link>https://autonews.gasgoo.com/articles/news/faws-jiang-shan-ai-calls-for-automotive-software-to-shift-from-adaptation-to-resource-management-2100842355191353344</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/faws-jiang-shan-ai-calls-for-automotive-software-to-shift-from-adaptation-to-resource-management-2100842355191353344</guid>
-      <pubDate>Fri, 18 Sep 2026 15:00:17 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転システム実装の基盤技術について述べられているが、具体的な機能進展は記載されていない。）</p><p>FAW R&amp;D研究所のJiang Shan氏は、AI時代の到来に伴い、自動車基盤ソフトウェアの役割が従来の適応型から異種リソース（CPU・GPU・NPU・MCU）の統合管理型へ根本的に転換すると主張。コンパイラ・ランタイム・ツールチェーン・AI モデル生態系の統合により、安定した計算処理能力を実現することが高度自動運転システム実装の鍵となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/faws-jiang-shan-ai-calls-for-automotive-software-to-shift-from-adaptation-to-resource-management-2100842355191353344">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
