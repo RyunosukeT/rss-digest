@@ -5,8 +5,16 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:10:08 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] フォルクスワーゲン ジェッタ M6 EV、中国で19時間で1万台受注</title>
+      <link>https://carnewschina.com/2026/10/24/volkswagens-jetta-m6-ev-is-a-hit-in-china-gets-10000-orders-in-19-hours/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/10/24/volkswagens-jetta-m6-ev-is-a-hit-in-china-gets-10000-orders-in-19-hours/</guid>
+      <pubDate>Sat, 24 Oct 2026 19:53:59 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（L2運転支援搭載の新車情報。中国EVマーケットにおける実績データも参考になる。）</p><p>フォルクスワーゲンがFAW傘下のジェッタブランド初のEVモデル「M6」を中国で発表し、19時間で1万台の受注を獲得した。本車にはL2運転支援システムと折りたたみダブルベッドが搭載されている。</p><p><a href="https://carnewschina.com/2026/10/24/volkswagens-jetta-m6-ev-is-a-hit-in-china-gets-10000-orders-in-19-hours/">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] 東風風神L8+が700TOPSチップ搭載で15万元級の最高性能自動運転を実現</title>
       <link>https://www.geekcar.com/archives/140309</link>
@@ -478,14 +486,6 @@
       <pubDate>Fri, 18 Sep 2026 16:51:53 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（AI搭載車全体の開発プロセス最適化についての見方は参考になるが、自動運転機能そのものの進展には直接関わらない。）</p><p>Sonatus共同創立者のFang Yu氏は、現在のAI車の議論が運転支援とコックピット機能に集中していることに警告し、診断や品質保証など全開発ライフサイクルへのAI統合が本来のAI搭載車には不可欠だと主張。AI技術により、従来は部門ごとに分断されていた開発・テスト・生産・サービス情報を統合し、組織全体の知識活用を促進することが将来の競争力の鍵となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/sonatus-fang-yu-ai-in-cars-should-go-beyond-assisted-driving-and-smart-cockpits-2100870442104827905">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] TrustMotion のFu氏：中央演算への移行で課題はむしろ深刻化、リアルタイム制御が鍵</title>
-      <link>https://autonews.gasgoo.com/articles/news/trustmotions-fu-shen-predictable-tasks-are-key-to-central-computing-2100857785863811073</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/trustmotions-fu-shen-predictable-tasks-are-key-to-central-computing-2100857785863811073</guid>
-      <pubDate>Fri, 18 Sep 2026 16:01:35 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転システムの基盤となるアーキテクチャ設計について述べられているが、L2・L3・L4の機能進展に直接関わる内容は限定的。）</p><p>NXP傘下のTrustMotionの主任システムアーキテクトFu Shen氏は、ドメイン基盤から中央演算型への転換が急速に進む中で、ミリ秒単位のリアルタイム制御と安定性の維持が新たな課題になると指摘した。中央演算の集約化はOTA更新を効率化する一方で、制御応答遅延の増加とECU統合による複雑性増加という課題が残る。システム信頼性の向上が自動運転システムの実装に必須となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/trustmotions-fu-shen-predictable-tasks-are-key-to-central-computing-2100857785863811073">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
