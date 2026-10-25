@@ -5,8 +5,24 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 21:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:10:19 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 新型旅行者7がグローバル発売、運転支援標準装備で12.59万元から</title>
+      <link>https://www.geekcar.com/archives/140334</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140334</guid>
+      <pubDate>Sun, 25 Oct 2026 17:39:01 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（L2〜L4相当の運転支援システム（ADS 5含む）を標準装備した新車で、両パワートレイン構成と詳細な仕様が明記。自動運転システム搭載車の具体的情報として価値が高い。）</p><p>捷途の新型旅行者7がグローバル発売され、標準価格12.59万元から提供される。燃油版は猎鹰500運転支援とエンドツーエンドモデルを搭載し、ハイブリッド版はファーウェイの乾崑ADS 5を装備。高通骁龙8255プロセッサ、15.6インチディスプレイ、LiDARなどを備えたインテリジェント座舱により、都市通勤からオフロード走行まで対応する。</p><p><a href="https://www.geekcar.com/archives/140334">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] Zelosの自動運転ロボバンがマレーシアで公道テスト開始</title>
+      <link>https://autonews.gasgoo.com/articles/news/zelos-begins-six-month-robovan-public-road-trial-in-malaysia-2114306900283506688</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/zelos-begins-six-month-robovan-public-road-trial-in-malaysia-2114306900283506688</guid>
+      <pubDate>Sun, 25 Oct 2026 10:42:55 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（完全自動運転（RoboVan）の公道試験であり、最新の実証情報。ただしマレーシアでの限定的試験であり、新車発売ではなく試験段階のため、相対的にスコアは3。）</p><p>Zelosが自動運転ロボバン「RoboVan」のマレーシア初の公道テストを開始し、6ヶ月間の試験期間でサイバージャヤの約22km区間を走行する。商業地区、教育機関、駅、交差点などの実走行環境で性能を検証し、将来の商用展開に向けた準備を進める。ローカルパートナーのALSと共同で運用データを監視・収集する。</p><p><a href="https://autonews.gasgoo.com/articles/news/zelos-begins-six-month-robovan-public-road-trial-in-malaysia-2114306900283506688">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] フォルクスワーゲン ジェッタ M6 EV、中国で19時間で1万台受注</title>
       <link>https://carnewschina.com/2026/10/24/volkswagens-jetta-m6-ev-is-a-hit-in-china-gets-10000-orders-in-19-hours/</link>
@@ -470,22 +486,6 @@
       <pubDate>Fri, 18 Sep 2026 16:56:13 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（L2・L3自動運転システムの実装と開発戦略について、有力メーカーの最新動向が詳述されている。）</p><p>東風モーターのLiu Zhifeng博士は、L2運転支援システムの普及とL3の実装が進む中で、単一車両のAI技術は限界に近づいており、車路雲統合とチップの連携が次の成長の機会となると指摘した。同社は「Tianyuan Intelligence」を中心とした企業向け大規模言語モデルと専用OSを搭載した統合システムを開発中。L3自動運転システムの実装段階での技術的課題と商用成熟度の向上が重要となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/dongfengs-liu-zhifeng-vehicle-ai-nears-long-tail-limits-vehicle-road-cloud-offers-new-growth-2100871537682190336">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] SAIC のMeng氏：真のAI車は単一モデルではなく、ユーザー目標の達成を重視</title>
-      <link>https://autonews.gasgoo.com/articles/news/saics-meng-chao-dont-judge-in-car-ai-by-the-model-it-uses-alone-2100852169464262657</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/saics-meng-chao-dont-judge-in-car-ai-by-the-model-it-uses-alone-2100852169464262657</guid>
-      <pubDate>Fri, 18 Sep 2026 15:39:14 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（AI定義車とSDV・AIVの違いについて明確に述べられており、L3以上の自動運転進化の方向性が理解できる。）</p><p>SAIC Motor のMeng Chao氏は、ソフトウェア定義車（SDV）とAI定義車（AIDV）の違いを強調。AIDV時代では、L2・L3レベルのような事前定義ルールではなく、AI推論による動的な行動生成が中核となり、ユーザー意図を理解して複数機能を統合制御することで、従来にない利用体験を実現する。これは単なる音声アシスタントや特定機能ではなく、車全体の新しい設計パラダイムの転換を意味する。</p><p><a href="https://autonews.gasgoo.com/articles/news/saics-meng-chao-dont-judge-in-car-ai-by-the-model-it-uses-alone-2100852169464262657">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] Sonatus のFang氏：AI搭載車は運転支援を超え、全ライフサイクルの知能化が必要</title>
-      <link>https://autonews.gasgoo.com/articles/news/sonatus-fang-yu-ai-in-cars-should-go-beyond-assisted-driving-and-smart-cockpits-2100870442104827905</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/sonatus-fang-yu-ai-in-cars-should-go-beyond-assisted-driving-and-smart-cockpits-2100870442104827905</guid>
-      <pubDate>Fri, 18 Sep 2026 16:51:53 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（AI搭載車全体の開発プロセス最適化についての見方は参考になるが、自動運転機能そのものの進展には直接関わらない。）</p><p>Sonatus共同創立者のFang Yu氏は、現在のAI車の議論が運転支援とコックピット機能に集中していることに警告し、診断や品質保証など全開発ライフサイクルへのAI統合が本来のAI搭載車には不可欠だと主張。AI技術により、従来は部門ごとに分断されていた開発・テスト・生産・サービス情報を統合し、組織全体の知識活用を促進することが将来の競争力の鍵となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/sonatus-fang-yu-ai-in-cars-should-go-beyond-assisted-driving-and-smart-cockpits-2100870442104827905">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
