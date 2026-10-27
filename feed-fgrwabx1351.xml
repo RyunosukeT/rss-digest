@@ -5,8 +5,40 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 21:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:10:31 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] neueHCT運転支援システムがGWMハヴァル大犬HEV版に搭載開始、複数パワートレイン対応で都市NOA機能を普及</title>
+      <link>https://autonews.gasgoo.com/articles/news/neuehcts-one-stage-end-to-end-adas-enters-production-on-gwm-haval-big-dog-hev-2115029860732518401</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/neuehcts-one-stage-end-to-end-adas-enters-production-on-gwm-haval-big-dog-hev-2115029860732518401</guid>
+      <pubDate>Tue, 27 Oct 2026 10:35:59 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（L3相当の都市NOA運転支援を量産モデルに搭載する最新事例。複数パワートレイン対応は市場展開の重要度が高い。）</p><p>neueHCTのワンステージエンドツーエンド運転支援システム「HCT Astra」がGreat Wall Motorハヴァル大犬に量産搭載され、同時にHEV版としても初採用された。Horizon Robotics Journey 6Mチップ単体で128 TOPSの演算性能を実現し、都市NOA・高速自動車線変更・自動駐車などの機能を備える。応答時間200ms以下、複数都市・シナリオでの汎化性能を有する。</p><p><a href="https://autonews.gasgoo.com/articles/news/neuehcts-one-stage-end-to-end-adas-enters-production-on-gwm-haval-big-dog-hev-2115029860732518401">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 奕境X9が業界初のエアサスペンション終身保証を常態化、家族ユーザーの長期保有コストを大幅削減</title>
+      <link>https://www.geekcar.com/archives/140336</link>
+      <guid isPermaLink="true">https://www.geekcar.com/archives/140336</guid>
+      <pubDate>Tue, 27 Oct 2026 14:50:25 GMT</pubDate>
+      <category>GeekCar</category>
+      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（自動運転搭載新車の差別化戦略事例として参考価値が高い。ファーウェイ乾崑の搭載車種の市場評価に関連。）</p><p>奕境汽車はX9に搭載する双腔エアサスペンションを含む終身保証を限定的な施策から永久的な権益へと升级した。整車・三電・レンジエクステンダー・高額なエアサスペンション修理すべてを保証対象とする本施策は、業界で唯二の取組みとなる。東風とファーウェイ乾崑の品質管控体系に支えられた本格的な製品実力があるからこそ、長期にわたるユーザーの修理コストを企業が負担する決断が可能になった。</p><p><a href="https://www.geekcar.com/archives/140336">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] AUMOVIOが中国市場向け自主開発のミリ波レーダーRAD72Cを初搭載獲得、現地チーム主導の製品開発体制を確立</title>
+      <link>https://autonews.gasgoo.com/articles/news/aumovio-takes-its-china-strategy-to-the-next-level-2115037478448414721</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/aumovio-takes-its-china-strategy-to-the-next-level-2115037478448414721</guid>
+      <pubDate>Tue, 27 Oct 2026 11:06:03 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（ADAS用センサーの技術動向として参考になるが、自動運転L3以上の機能システムではなく、L2相当の運転支援システム向けコンポーネント。）</p><p>コンチネンタルから分離し独立上場したAUMOVIOが、中国市場向けに自主開発した第7世代ミリ波レーダーRAD72Cを発表した。中国メーカー複数社からの採用獲得を既に獲得し、2027年第3四半期に量産予定。これは1999年のレーダー開発開始以来初めて、中国チームが市場向けの製品定義・設計・開発すべてを担当する案件である。</p><p><a href="https://autonews.gasgoo.com/articles/news/aumovio-takes-its-china-strategy-to-the-next-level-2115037478448414721">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] Mobileeyeが自動緊急制動システムでTÜV SÜDの開発・検査証明書を初取得、ISO 21448準拠を確認</title>
+      <link>https://autonews.gasgoo.com/articles/news/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345</guid>
+      <pubDate>Tue, 27 Oct 2026 10:45:33 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（L2～L3の自動運転システムに必須となるアクティブセーフティ技術の安全認証動向として関連性あり。）</p><p>Mobileeyeが安全認証機関TÜV SÜDから自動緊急制動（AEB）システムの開発検査証明書を初めて取得した。監査ではISO 21448国際規格への適合を確認し、センサー・認識システムの性能限界を含むリスク評価とミティゲーション体制が検証された。SOTIF（システムの意図された機能の安全性）原則に基づき、設計通りに動作した場合でも生じうる危害を評価・制御する体系構築が確認されている。</p><p><a href="https://autonews.gasgoo.com/articles/news/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] XPENGが広州での市全域L4ロボタクシー実証運行の承認を取得</title>
       <link>https://autonews.gasgoo.com/articles/news/xpeng-receives-approval-for-citywide-l4-robotaxi-demonstration-operations-in-guangzhou-2114582216683962369</link>
@@ -454,38 +486,6 @@
       <pubDate>Tue, 22 Sep 2026 15:08:51 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（L4自動運転の実運用展開事例。空港という限定的だが実際の営業環境での運用開始で、自動運転技術の商用化進展を示す重要な事例。）</p><p>UIESEとルフトハンザは9月15～17日のGSE Expo Europe 2026で戦略提携を発表した。ミュンヘン空港でレベル4自動運転プロジェクトを展開し、地上運用の知能化、民間航空デジタル化、グリーン航空を重点領域とする。UIESEは既に空港環境でのレベル4自動運転の大規模商用化を実現しており、実装・運用経験が豊富。</p><p><a href="https://autonews.gasgoo.com/articles/news/uisee-technologies-and-lufthansa-form-strategic-partnership-to-deploy-level-4-autonomous-driving-at-munich-airport-2102294210656272385">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] 華為Yinwang、SERESとの提携深化 Qiankun自動運転システムなど供給</title>
-      <link>https://autonews.gasgoo.com/articles/news/yinwang-reiterates-support-for-aito-development-seres-named-strategic-partner-and-shareholder-2102385668201590785</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/yinwang-reiterates-support-for-aito-development-seres-named-strategic-partner-and-shareholder-2102385668201590785</guid>
-      <pubDate>Tue, 22 Sep 2026 21:12:01 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（華為自動運転システム関連の提携ニュース。AITO開発支援は重要だが、具体的な新車搭載情報がないため。）</p><p>華為傘下のYinwang Intelligent Technologyは9月20日、SERESが戦略パートナーで株主であることを再確認した。Qiankun自動運転、HarmonyOSコックピット、スマート車両制御、自動車光学、クラウドサービスなどのフルスタック自動運転ソリューションを供給する。</p><p><a href="https://autonews.gasgoo.com/articles/news/yinwang-reiterates-support-for-aito-development-seres-named-strategic-partner-and-shareholder-2102385668201590785">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] 次世代BYD Han、LiDAR搭載で高級感増 ドラゴンフェイスデザイン採用</title>
-      <link>https://carnewschina.com/2026/09/22/next-generation-byd-han-sedan-spotted-in-china-with-lidar-and-dragon-face/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/09/22/next-generation-byd-han-sedan-spotted-in-china-with-lidar-and-dragon-face/</guid>
-      <pubDate>Tue, 22 Sep 2026 09:18:01 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 3/5（LiDAR搭載新型車。自動運転機能の詳細情報がないため確実性に欠けるが、LiDAR搭載は自動運転関連の可能性あり。見出しは確認価値あり。）</p><p>次世代BYD Hanが目撃。LiDARとドラゴンフェイスデザインを採用。エントリーモデル として約200,000人民元で小売予定。</p><p><a href="https://carnewschina.com/2026/09/22/next-generation-byd-han-sedan-spotted-in-china-with-lidar-and-dragon-face/">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] SemiDriveが約10億人民元のシリーズC融資を完了、自動運転チップ開発を拡大</title>
-      <link>https://autonews.gasgoo.com/articles/news/semidrive-closes-roughly-rmb-1-billion-series-c-financing-as-it-expands-into-embodied-intelligence-2101862033787392001</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/semidrive-closes-roughly-rmb-1-billion-series-c-financing-as-it-expands-into-embodied-intelligence-2101862033787392001</guid>
-      <pubDate>Mon, 21 Sep 2026 10:32:07 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（自動運転チップメーカーの動向で関連性があるが、L2～L4の具体的な新車情報ではない）</p><p>中国の自動車向けチップメーカーSemiDriveが2026年のシリーズC・C+・C++融資で約10億人民元（1億4,000万ドル）を調達完了。インテリジェントコックピットおよび車制御チップの開発と、ロボティクス・産業用途への展開を加速。2026年8月時点でチップ累計出荷数は1,400万ユニットを超えた。</p><p><a href="https://autonews.gasgoo.com/articles/news/semidrive-closes-roughly-rmb-1-billion-series-c-financing-as-it-expands-into-embodied-intelligence-2101862033787392001">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] Zelosが自動配送ロボバン、ベルギーのY試験プレート取得</title>
-      <link>https://autonews.gasgoo.com/articles/news/zelos-obtains-belgian-y-test-plate-for-robovan-road-testing-2101561803674157056</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/zelos-obtains-belgian-y-test-plate-for-robovan-road-testing-2101561803674157056</guid>
-      <pubDate>Sun, 20 Sep 2026 14:39:08 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（レベル4相当の自動配送システムの欧州展開進捗であり、自動運転技術開発・規制認可の重要な事例。実路テスト承認は業界進展を示す。）</p><p>自動運転配送企業Zelosが、ベルギーからレベル4相当の自動運転システム試験用Y試験プレートを取得し、RoboVanの公道テストへの道を開いた。EU規制2022/1426に基づく認可枠組みで、欧州初かつ唯一のロボバンプロバイダーとしてこの認可を獲得。オーストリアでの技術検証、オランダでの閉鎖地域パイロットに続く段階で、今後ベルギーでの実路検証が進められる。</p><p><a href="https://autonews.gasgoo.com/articles/news/zelos-obtains-belgian-y-test-plate-for-robovan-road-testing-2101561803674157056">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
