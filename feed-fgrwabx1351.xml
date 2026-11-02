@@ -5,8 +5,16 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:10:30 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★☆☆] ECARXとArm、次世代AIコンピューティング基盤の共同検討で覚書を締結</title>
+      <link>https://autonews.gasgoo.com/articles/news/ecarx-arm-to-explore-next-generation-ai-computing-platforms-2117284471019294721</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/ecarx-arm-to-explore-next-generation-ai-computing-platforms-2117284471019294721</guid>
+      <pubDate>Mon, 02 Nov 2026 15:55:10 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（車載AI演算基盤の動向だが、自動運転機能への直接の言及は少ない）</p><p>ECARXとArmは、モビリティおよび異業種向けの次世代高性能AIコンピューティング基盤を共同で検討・開発するための、法的拘束力のない覚書を締結した。対象はモビリティ分野に加え、AIデバイスなどを含むフィジカルAI用途とされる。共同開発の範囲には、システムアーキテクチャ、性能最適化、機能安全、ツールチェーン、サイバーセキュリティ検証が含まれる。両社は既存の車載半導体企業SiEngineを通じた協業を基盤としており、同社の7nm車載スマートコックピットSoC「SE1000」は量産段階にある。車載AI向け演算基盤の強化は、今後の高度な運転支援や自動運転の処理能力にも関わる動きとして注目できる。</p><p><a href="https://autonews.gasgoo.com/articles/news/ecarx-arm-to-explore-next-generation-ai-computing-platforms-2117284471019294721">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] アイビトア07L Max EV版が発売、ファーウェイ乾崑ADS 5を搭載</title>
       <link>https://www.geekcar.com/archives/140363</link>
@@ -478,14 +486,6 @@
       <pubDate>Wed, 30 Sep 2026 20:51:25 GMT</pubDate>
       <category>GeekCar</category>
       <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（自動運転補助機能Momenta R7搭載の新車で、AI座舱システムの実装例として参考価値がある）</p><p>上汽荣威と火山引擎の共同開発による「荣威家越07」が9月21日に予約開始された。同車は業界初となる豆包座舱助手を搭載し、AIが車内の人員状態や音声を認識して自然な対話を実現する。Momenta R7の高度な自動運転補助機能も搭載され、自然言語での複雑な指示を複数の行動に変換して実行可能。予約価格は13.78～15.28万元で、最大62,899元相当の購入特典を提供している。</p><p><a href="https://www.geekcar.com/archives/140189">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] 奇瑞ジェットゥール G700、ファーウェイADS 5.0搭載で発表</title>
-      <link>https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched-with-huawei-ads-5-0/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched-with-huawei-ads-5-0/</guid>
-      <pubDate>Tue, 29 Sep 2026 23:40:52 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 5/5（ファーウェイADS 5.0搭載の高度な自動運転新車。L2/L3レベルの自動運転システム搭載情報で必読。）</p><p>奇瑞が2027年モデルジェットゥール G700をファーウェイADS 5.0自動運転システム搭載で上市した。</p><p><a href="https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched-with-huawei-ads-5-0/">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
