@@ -5,8 +5,48 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Nov 2026 21:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:12:32 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] Tank、「OTAエボリューション月間」で300など複数モデルをアップデート 運転支援を強化</title>
+      <link>https://autonews.gasgoo.com/articles/news/tank-launches-ota-evolution-month-upgrades-for-multiple-models-including-tank-300-2117787072156561409</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/tank-launches-ota-evolution-month-upgrades-for-multiple-models-including-tank-300-2117787072156561409</guid>
+      <pubDate>Wed, 04 Nov 2026 01:12:03 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（NOA機能の拡張や緊急操舵支援など、運転支援の具体的な進化が含まれる）</p><p>Tankは11月2日から「OTAエボリューション月間」を開始し、2025年型Tank 300などにOTAアップデートを段階的に配信している。今回のアップデートは運転支援、車両制御、スマートコックピットが中心で、NOA搭載車では「ローミングパーキング（未マップの駐車場で空きを自動探索）」や三点ターン（狭路や障害物回避）に対応した。さらに、衝突回避が制動だけでは困難な場合に隣接車線へ操舵する緊急操舵支援も追加された。</p><p><a href="https://autonews.gasgoo.com/articles/news/tank-launches-ota-evolution-month-upgrades-for-multiple-models-including-tank-300-2117787072156561409">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] RoboSense、年間50万台規模の全自動デジタルLiDAR生産ラインを稼働</title>
+      <link>https://autonews.gasgoo.com/articles/news/robosense-opens-automated-digital-lidar-line-with-500000-unit-annual-capacity-2117951174157946880</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/robosense-opens-automated-digital-lidar-line-with-500000-unit-annual-capacity-2117951174157946880</guid>
+      <pubDate>Wed, 04 Nov 2026 12:04:08 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（ADASや自動運転の主要センサーLiDARの量産体制に関する重要情報）</p><p>RoboSenseは深圳の宏華嶺工場に、世界初とする全自動デジタルLiDAR生産ラインを稼働させたと発表した。作業員は6名で、年間生産能力は50万台となる。自動化率は99%とされ、100台以上の自動機械が70以上の工程を担い、検査は生産の98%をカバーしている。</p><p><a href="https://autonews.gasgoo.com/articles/news/robosense-opens-automated-digital-lidar-line-with-500000-unit-annual-capacity-2117951174157946880">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 中国生産の「Lincoln Aviator EX8」発表 LiDAR搭載のPHEV</title>
+      <link>https://carnewschina.com/2026/11/04/china-made-lincoln-aviator-ex8-breaks-covers-as-phev-with-lidar/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/11/04/china-made-lincoln-aviator-ex8-breaks-covers-as-phev-with-lidar/</guid>
+      <pubDate>Wed, 04 Nov 2026 05:34:12 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（LiDAR搭載の新車で、運転支援搭載車の情報として関連性が高い）</p><p>長安フォード合弁による大型5人乗りクロスオーバーSUV「Lincoln Aviator EX8」が、発売に先立って中国で公開された。PHEVとして設定され、LiDARを搭載している。LiDARの搭載は運転支援機能の強化を示唆するが、詳細な仕様は抜粋に含まれていない。</p><p><a href="https://carnewschina.com/2026/11/04/china-made-lincoln-aviator-ex8-breaks-covers-as-phev-with-lidar/">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] iSOFT、「AI定義車両」オープンソースの新章へ 8つの成果を発表</title>
+      <link>https://autonews.gasgoo.com/articles/news/isoft-unveils-8-achievements-opening-a-new-chapter-in-ai-defined-vehicle-open-source-2117974544371044353</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/isoft-unveils-8-achievements-opening-a-new-chapter-in-ai-defined-vehicle-open-source-2117974544371044353</guid>
+      <pubDate>Wed, 04 Nov 2026 13:36:54 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（車載OSの基盤技術。運転支援への言及はあるが直接の自動運転情報は少ない）</p><p>iSOFTは中国自動車技術会の年次大会（SAECCE 2026）で、「エコシステムのキューブ」をテーマに発表会を開いた。オープンソースの安全車両制御OS「Xiaoman EasyXMen V26.10」や、AUTOSAR CAPI 1.0、iSOFT Intelligent OSなど8つの技術成果を公表した。Xiaomanはボディ、パワートレイン、シャシー、コックピット、インテリジェント運転支援の5領域で、300車種以上に搭載され、2,500万台が量産されている。</p><p><a href="https://autonews.gasgoo.com/articles/news/isoft-unveils-8-achievements-opening-a-new-chapter-in-ai-defined-vehicle-open-source-2117974544371044353">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] 宝龍汽車と奇瑞が合弁「蕪湖宝龍智感科技」設立 資本金1億元</title>
+      <link>https://autonews.gasgoo.com/articles/news/baolong-automotive-chery-establish-wuhu-baolong-zhigan-technology-with-100-million-yuan-registered-capital-2117783957541900289</link>
+      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/baolong-automotive-chery-establish-wuhu-baolong-zhigan-technology-with-100-million-yuan-registered-capital-2117783957541900289</guid>
+      <pubDate>Wed, 04 Nov 2026 00:59:48 GMT</pubDate>
+      <category>Gasgoo</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（ADAS部品メーカーの内製強化に関わる動きで、運転支援と関連する）</p><p>宝龍汽車（Baolong Automotive）と奇瑞が共同出資し、資本金1億元の「蕪湖宝龍智感科技」が設立された。事業範囲は電子部品製造、IC設計、AIアプリケーション開発などである。宝龍はTPMSやADAS、センサー事業を手がけており、今回の合弁はセンサーやインテリジェント運転支援向け部品の内製強化とサプライチェーン確保を狙うとみられる。</p><p><a href="https://autonews.gasgoo.com/articles/news/baolong-automotive-chery-establish-wuhu-baolong-zhigan-technology-with-100-million-yuan-registered-capital-2117783957541900289">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★☆☆] 改良版Zeekr 7X、発売前に中国で目撃される</title>
       <link>https://carnewschina.com/2026/11/03/updated-zeekr-7x-was-seen-in-china-ahead-of-launch/</link>
@@ -446,46 +486,6 @@
       <pubDate>Thu, 08 Oct 2026 15:22:13 GMT</pubDate>
       <category>CarNewsChina</category>
       <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 5/5（完全自動運転（L4/L5相当）ロボタクシーの実運用段階への移行。公開パイロット開始は商用化への重要なマイルストーン。高い関心対象。）</p><p>小鵬は10月8日、ロボタクシーサービスを「小鹏悠遊（Yoyo）」と命名し、中国で招待制のパイロットプログラムを開始した。従業員による試乗は既に2200回以上実施されており、外部ユーザーへの拡大テストに向けて準備が進んでいる。5月に生産モデルが完成、7月に従業員テストに入り、8月に広州の指定道路での無人運転試験許可を取得している。</p><p><a href="https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china/">元記事を読む</a></p><p>同じ話題の他の記事:</p><ul><li><a href="https://autonews.gasgoo.com/articles/news/xpeng-names-robotaxi-service-xpeng-yoyo-2108071881306759168">XPENG names Robotaxi service 'XPENG YOYO'</a>（Gasgoo）</li></ul>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 全新領克20が発売、自動運転L2レベルの運転支援システムを全系統搭載</title>
-      <link>https://www.geekcar.com/archives/140223</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140223</guid>
-      <pubDate>Thu, 08 Oct 2026 16:07:33 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（L2級運転支援システムを全車標準装備する新型EV。LiDARとセンサーフュージョン、高性能チップの採用により自動運転技術の進展を示す重要な事例。）</p><p>領克が9月28日に新型EV SUV「領克20」を11.88万元からの価格で発売した。SEA浩瀚電動プラットフォームに基づき、全車にLiDAR、千里浩瀚H5運転支援システム、800V高圧プラットフォームなどの上位クラス並みの装備を標準装備している。ホライズン・ロボティクスのJourneyチップ（演算性能128TOPS）を搭載し、28個のセンサーで複雑な運転シーンに対応する。都市若年層向けに智能化、駆行性能、品質を統合した体験を提供する。</p><p><a href="https://www.geekcar.com/archives/140223">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 神龍科技とMomentaが戦略提携、L2/L3自動運転とAIエージェントの共同開発を開始</title>
-      <link>https://www.geekcar.com/archives/140204</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140204</guid>
-      <pubDate>Thu, 08 Oct 2026 15:20:34 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 4/5（L2からL3/L4へのアップグレード開発を視野に入れた重要な提携。ワールドモデルとエンドツーエンド技術の実装は自動運転の質的進化を示す。）</p><p>神龍科技とMomentaが9月24日、グローバル戦略提携を締結した。標致、シトロエン、ジープブランドの底盤調校経験とMomentaの物理AI技術を統合し、運転支援機能から高度自動運転まで長期協力する。Momentaの最新ワールドモデルとエンドツーエンド智能運転支援、AIコントロール指令に基づく自律的意思決定を実装。冰雪路面やオフロード対応の精細な輪端制御も開発する。</p><p><a href="https://www.geekcar.com/archives/140204">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] 吉利が新世代AI急速充電技術「吉利智充」を発表、単銃峰値出力2250kW達成</title>
-      <link>https://www.geekcar.com/archives/140209</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140209</guid>
-      <pubDate>Thu, 08 Oct 2026 15:39:37 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 3/5（自動運転搭載車の急速充電基盤技術。自動運転車の運用効率を左右する充電インフラの革新だが、直接的な自動運転機能ではない。）</p><p>吉利汽車が9月23日、新世代AI補能技術「吉利智充」を発表した。単銃峰値充電出力2250kWで世界量産最速の補能速度を実現し、最高充電温度を65℃以下に管理、電池サイクル寿命を20%向上させている。星睿PowerMind能源大脳により、AIが電池温度、充電場所、ユーザーの出行習慣を統合的に制御する「人・車・充電器・クラウド・ネットワーク・蓄電」協調架構を構築した。同日、吉利銀河E5も発売開始された。</p><p><a href="https://www.geekcar.com/archives/140209">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] iCAR V27長航続距離版上市、300km純電走行と先進運転支援機能搭載</title>
-      <link>https://www.geekcar.com/archives/140197</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140197</guid>
-      <pubDate>Fri, 02 Oct 2026 07:03:34 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong> ／ 興味スコア 5/5（L2自動運転相当の全シーン駐車支援と先進運転支援機能搭載。読者が追いたい自動運転技術情報が豊富。）</p><p>iCAR V27長航続距離版が上市され、価格は18.98万〜20.38万元。51.2kWh大容量増程専用電池で300km（CLTC）の純電走行距離を実現。同級唯一の「全シーン駐車支援」を含む先進運転支援機能を搭載し、OTA大型アップデートにより全シーンで切れ目なく動作。長距離走行では45.79%の高熱効率1.5Tエンジンで1300km以上の総合航続距離を確保。</p><p><a href="https://www.geekcar.com/archives/140197">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] フォルクスワーゲン ID. Aura T6、中国で納車開始。660km航続距離</title>
-      <link>https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range/</guid>
-      <pubDate>Fri, 02 Oct 2026 09:49:40 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（電動SUVの新モデル情報。自動運転情報は記載されていないが、新型EV車の市場投入は注視対象。）</p><p>フォルクスワーゲンのID. Aura T6ミッドサイズ電動SUVが中国で納車を開始した。最大660kmのCLTC航続距離を備え、19,375米ドルからの価格設定となっている。電動SUVの新モデル投入により、中国市場でのEV展開を加速させる。</p><p><a href="https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range/">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
