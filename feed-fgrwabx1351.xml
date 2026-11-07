@@ -5,8 +5,17 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 07:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:11:02 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 【L4】百度、AIが自動運転AIを訓練する仮想世界モデル「Apollo World」を発表</title>
+      <link>https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive/</link>
+      <guid isPermaLink="true">https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive/</guid>
+      <pubDate>Thu, 05 Nov 2026 01:47:28 GMT</pubDate>
+      <category>CnEVPost</category>
+      <category>L4</category>
+      <description><![CDATA[<p><strong>CnEVPost</strong> ／ 興味スコア 4/5（L4ロボタクシーの検証基盤に関する具体的な技術発表で、自動運転の動向として重要）</p><p>百度（Baidu）は、自動運転システムが運転戦略を訓練・検証するための、AIで生成した対話型の仮想交通環境「Apollo World」を発表した。車両や歩行者などの道路利用者はAIエージェントとして自律的に判断・相互作用する。同社によると、すでにロボタクシー事業「Apollo Go」のグローバルなテストと検証に使われている。1日で完了する仮想走行距離は、安全運転者が乗る実車で約3年分に相当するという。配車から乗降までの全行程を仮想都市で再現し、新市場に進出する前の実走行テストのコストと展開リスクを減らすことを狙う。</p><p><a href="https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive/">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] Lynk &amp; Co 900L、11月10日発表　車体長5,280mmのレンジローバー風フラッグシップSUV</title>
       <link>https://carnewschina.com/2026/11/06/lynk-co-900l-flagship-suv-debuts-november-10-with-5280-mm-body-and-range-rover-like-styling/</link>
@@ -478,14 +487,6 @@
       <pubDate>Tue, 13 Oct 2026 20:47:59 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（レベル2/2+の自動運転システム開発と市場投入戦略に関する具体的な事例を提供。業界トレンドの重要な指標。）</p><p>サプライヤーのValeoが開発サイクルを短縮化し、電動化・運転支援・ソフトウェア定義車に対応している。Valeoは中国で開発したレベル2完全自動運転システムを8カ月で完成させ、10の受注を獲得した。レベル2+に拡張された同システムは、従来の開発期間を最大3分の2削減するなど、技術の市場投入スピードがOEMとサプライヤーの競争優位を左右する新たな指標になっている。</p><p><a href="https://autonews.gasgoo.com/articles/news/valeo-ceo-faster-development-reshapes-the-race-to-bring-automotive-technology-to-market-2109989767248048128">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] BYD Denza Z9 GT、欧州でゴッズアイ自律運転機能を搭載予定</title>
-      <link>https://carnewschina.com/2026/10/13/denza-z9-gt-to-become-first-byd-car-with-gods-eye-autonomous-navigation-in-europe/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/10/13/denza-z9-gt-to-become-first-byd-car-with-gods-eye-autonomous-navigation-in-europe/</guid>
-      <pubDate>Tue, 13 Oct 2026 11:14:04 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（レベル3相当と考えられる高度な自動運転機能の欧州導入事例。新車投入と自動運転システム搭載情報を含む。）</p><p>BYDの高級ステーションワゴン「Denza Z9 GT」が欧州市場でゴッズアイシティナビゲーション運転支援機能（CNOA）を搭載する初のBYD車となる。この機能は中国で開発された高度な自動運転技術で、欧州への導入は中国系EV メーカーの自動運転システムグローバル展開を示唆している。</p><p><a href="https://carnewschina.com/2026/10/13/denza-z9-gt-to-become-first-byd-car-with-gods-eye-autonomous-navigation-in-europe/">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
