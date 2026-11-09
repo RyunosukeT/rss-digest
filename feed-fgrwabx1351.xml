@@ -5,8 +5,35 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 22:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:13:55 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 【L2+】23.98万元から、智己LS8 NEOのEVが正式発売</title>
+      <link>https://auto.gasgoo.com/news/202611/7I70477289C1202.shtml#nav</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/7I70477289C1202.shtml#nav</guid>
+      <pubDate>Sat, 07 Nov 2026 15:15:37 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 4/5（運転支援にLiDARと高性能チップを備えた新型EVで関心に合致）</p><p>智己（IM Motors）のLS8 NEOにEV（純電動）版が追加され、正式に発売された。電池容量93kWhと103kWhの2仕様があり、発売特典価格は23.98万元と25.98万元。全仕様にCATL製電池、全域800Vアーキテクチャ、B&amp;Oオーディオ、冷暖冷蔵庫を標準装備する。運転支援には520ラインLiDARとNVIDIA Thorチップを採用し、高度な運転支援を搭載した新車として注目される。</p><p><a href="https://auto.gasgoo.com/news/202611/7I70477289C1202.shtml#nav">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] インフィニオン、初のRISC-VマイコンシリーズAURIX RC1を発表</title>
+      <link>https://auto.gasgoo.com/news/202611/6I70477154C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/6I70477154C409.shtml</guid>
+      <pubDate>Fri, 06 Nov 2026 07:57:43 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>その他</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（中央演算・SDV向け基盤部品で、運転支援への応用は間接的）</p><p>インフィニオンは、ソフトウェア定義車両（SDV）とフィジカルAI向けのリアルタイム制御を狙う、初のRISC-VベースのMCU「AURIX RC1」を発表した。従来のAURIXとTRAVEO T2Gを統合し、シャシーからコックピットまで同じ基盤で開発できるようにする。最大12個の32ビットコアとエッジAI加速機能を備え、将来は64ビットMPUも予定している。2026年11月に概念展示、2027年上半期にサンプル提供を予定する。</p><p><a href="https://auto.gasgoo.com/news/202611/6I70477154C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] インフィニオンとクアルコム、中央車載コンピューターの開発で提携</title>
+      <link>https://auto.gasgoo.com/news/202611/6I70477152C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/6I70477152C409.shtml</guid>
+      <pubDate>Fri, 06 Nov 2026 07:51:59 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>その他</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 3/5（運転支援・自動運転向け中央計算基盤の提携で、関連性は中程度）</p><p>インフィニオンとクアルコムは、SDVの中央車載コンピューター開発を加速するため技術協定を結んだ。クアルコムのSnapdragon Rideリファレンスプラットフォームに、マイコンベースのサブシステムを組み込む。このサブシステムはシステムの健康状態監視や安全機構の調整を担い、運転支援と自動運転機能をコックピット機能と統合する。サブシステムはAURIXマイコンとOPTIREG電源ICを中核とし、専用ソフトウェアも提供される。</p><p><a href="https://auto.gasgoo.com/news/202611/6I70477152C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] 【L4】百度、AIが自動運転AIを訓練する仮想世界モデル「Apollo World」を発表</title>
       <link>https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive/</link>
@@ -463,30 +490,6 @@
       <pubDate>Thu, 15 Oct 2026 11:37:39 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（次世代ロボタクシーのL4自動運転実装に向けた重要な技術開発。2026年のサービス開始予定で、実車運用が間近。）</p><p>滴滴自動運転がGAC Aionと共同開発した次世代ロボタクシー「R2」に、レイスロンの熱画像カメラを統合する。33個のセンサーと組み合わせ、360度の死角のない知覚システムを構築。熱画像は可視光カメラやLiDARが機能しない悪天候や低照度環境での検出を実現し、L4自動運転の信頼性向上に寄与する。</p><p><a href="https://autonews.gasgoo.com/articles/news/didi-raytron-advance-thermal-imaging-for-next-gen-robotaxis-in-2026-2110575962206199808">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] MGのプレミアムブランドIM、フルサイズSUV「LS9」に高度なADAS搭載へ</title>
-      <link>https://carnewschina.com/2026/10/15/mgs-im-ls9-full-size-suv-to-get-advanced-adas-and-semi-hidden-door-handles/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/10/15/mgs-im-ls9-full-size-suv-to-get-advanced-adas-and-semi-hidden-door-handles/</guid>
-      <pubDate>Thu, 15 Oct 2026 07:24:22 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 3/5（新型SUVへのADAS搭載情報だが、搭載技術レベル（L2相当か不明）と詳細が不足している。）</p><p>MGのプレミアムブランドIM Motorsが開発するフルサイズSUV「LS9」が、中国でのテスト走行が目撃された。高度なADAS（先進運転支援システム）と半隠蔽型ドアハンドルが搭載される見込み。</p><p><a href="https://carnewschina.com/2026/10/15/mgs-im-ls9-full-size-suv-to-get-advanced-adas-and-semi-hidden-door-handles/">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 2代目BYD Seagull、LiDAR搭載で10月20日発表予定、車体を拡大</title>
-      <link>https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/</guid>
-      <pubDate>Wed, 14 Oct 2026 04:13:41 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong> ／ 興味スコア 4/5（LiDAR搭載により自動運転機能の強化が推定され、新型車の自動運転スペックの詳細情報は重要。）</p><p>BYDが2代目Seagullを10月20日に発表する。LiDAR（光検出・測距）センサーを新たに搭載し、ボディサイズも拡大している。自動運転機能の強化を示唆するLiDARの搭載により、自動運転レベルの向上が期待される。</p><p><a href="https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] Valeo CEO：自動運転技術の市場投入スピードが競争の焦点に</title>
-      <link>https://autonews.gasgoo.com/articles/news/valeo-ceo-faster-development-reshapes-the-race-to-bring-automotive-technology-to-market-2109989767248048128</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/valeo-ceo-faster-development-reshapes-the-race-to-bring-automotive-technology-to-market-2109989767248048128</guid>
-      <pubDate>Tue, 13 Oct 2026 20:47:59 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong> ／ 興味スコア 5/5（レベル2/2+の自動運転システム開発と市場投入戦略に関する具体的な事例を提供。業界トレンドの重要な指標。）</p><p>サプライヤーのValeoが開発サイクルを短縮化し、電動化・運転支援・ソフトウェア定義車に対応している。Valeoは中国で開発したレベル2完全自動運転システムを8カ月で完成させ、10の受注を獲得した。レベル2+に拡張された同システムは、従来の開発期間を最大3分の2削減するなど、技術の市場投入スピードがOEMとサプライヤーの競争優位を左右する新たな指標になっている。</p><p><a href="https://autonews.gasgoo.com/articles/news/valeo-ceo-faster-development-reshapes-the-race-to-bring-automotive-technology-to-market-2109989767248048128">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
