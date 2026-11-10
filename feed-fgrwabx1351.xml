@@ -5,8 +5,53 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 22:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:47:25 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 【L2】長城汽車のOra 7、11月発売 シューティングブレークとファストバックの2タイプ</title>
+      <link>https://carnewschina.com/2026/11/10/great-wall-motors-ora-7-to-launch-in-november-with-shooting-brake-and-fastback-body-styles/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/11/10/great-wall-motors-ora-7-to-launch-in-november-with-shooting-brake-and-fastback-body-styles/</guid>
+      <pubDate>Tue, 10 Nov 2026 05:08:34 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <category>L2</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>長城汽車（GWM）の新型ミッドサイズSUV「Ora 7」が11月に発売される見通し。シューティングブレークとファストバックの2ボディタイプで、全長4,820mm、全幅1,870mm、全高1,520mm、ホイールベース2,870mm。運転支援はグレードにより選択でき、カメラのみのシステムとLiDARを追加したシステムから選べる。パワートレインと航続距離について、現時点で工信部に届け出られているのはシューティングブレークのみ。</p><p><a href="https://carnewschina.com/2026/11/10/great-wall-motors-ora-7-to-launch-in-november-with-shooting-brake-and-fastback-body-styles/">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L4】ヴァレオとNVIDIA、Hyperionを基盤に車載高性能計算プラットフォームを共同開発</title>
+      <link>https://auto.gasgoo.com/news/202611/9I70477356C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/9I70477356C601.shtml</guid>
+      <pubDate>Mon, 09 Nov 2026 05:09:01 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L4</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>ヴァレオとNVIDIAは、NVIDIAのHyperionリファレンスアーキテクチャを基に、量産可能な車載高性能計算プラットフォームを共同開発する。デュアルのDRIVE AGX Thorを採用し、L4自動運転に必要な演算性能と冗長性を提供する。NVIDIAのHalos安全フレームワークを組み込む。ヴァレオは車両統合、機能安全、車載グレードの量産を担う。乗用車、自動運転トラック、ロボタクシーなどを用途として想定している。</p><p><a href="https://auto.gasgoo.com/news/202611/9I70477356C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] 【L4】新石器X6T無人車、上汽大通南京工場で4か月連続稼働</title>
+      <link>https://auto.gasgoo.com/news/202611/9I70477391C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/9I70477391C601.shtml</guid>
+      <pubDate>Mon, 09 Nov 2026 08:25:21 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L4</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>新石器（Neolix）と上汽大通（SAIC Maxus）が共同開発したX6T無人車が、2026年7月から上汽大通南京工場で稼働している。車両の構造部品を倉庫から生産ラインへ運搬する任務を担い、4か月以上連続で運行している。同工場は国内初の整車製造「灯台工場」で、世界初のC2Bモデルを採用する。新石器は無人運転技術と運営プラットフォームを担当し、上汽大通は車両製造と整車インテリジェント方案を担当する。</p><p><a href="https://auto.gasgoo.com/news/202611/9I70477391C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] メリーランド大学、強化学習で自動運転車の「AIドライバー」を訓練し安全性向上へ</title>
+      <link>https://auto.gasgoo.com/news/202611/9I70477384C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/9I70477384C409.shtml</guid>
+      <pubDate>Mon, 09 Nov 2026 08:04:40 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>その他</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>メリーランド大学のXianfeng &quot;Terry&quot; Yang准教授の研究室は、強化学習を用いて自動運転車の運転AIを訓練している。信号の切り替わりタイミングを活用して減速せずに交差点を通過する経路の調整や、氷雪路面での挙動のモデリング、路側センサー情報を使った危険検知に取り組む。大規模言語モデルでエッジケースを抽出し、オープンソース3Dシミュレーター「CARLA」で検証する手法も紹介されている。米国国家科学財団の支援を受けている。</p><p><a href="https://auto.gasgoo.com/news/202611/9I70477384C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] 【L2+】Calterah、6送6受のミリ波レーダーSoC「Andes-Pro」を発表</title>
+      <link>https://auto.gasgoo.com/news/202611/9I70477325C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/9I70477325C601.shtml</guid>
+      <pubDate>Mon, 09 Nov 2026 05:10:11 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>Calterah（加特兰）は、ADAS向けに定義された6送6受のミリ波レーダーSoC「Andes-Pro」を発表した。36の仮想チャネルを持ち、単一チップで水平方向1°、仰角方向3°の角度分解能を実現する。−5dBsmの弱反射目標を200m以上で検出できるとしている。Flex-Cascading技術で2チップを連結すると12送12受に拡張可能。早期サンプルは社内試験中で、2026年第4四半期に顧客へ送付する計画。入門級L2から高度なL2+までの用途を想定する。</p><p><a href="https://auto.gasgoo.com/news/202611/9I70477325C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] 【L2+】2027款嵐図（Voyah）知音、11月13日に正式発売へ</title>
       <link>https://www.geekcar.com/archives/140417</link>
@@ -454,46 +499,6 @@
       <pubDate>Sun, 18 Oct 2026 15:04:52 GMT</pubDate>
       <category>GeekCar</category>
       <description><![CDATA[<p><strong>GeekCar</strong></p><p>奇瑞は10月20日に「Change」をテーマとした2026年グローバル創新大会を芜湖で開催し、自動車メーカーからAI駆動のグローバル知能科技企業への転換を発表する。業界初の自動車業界専用の大規模モデルと車載規格チップを展示し、業界初のグローバル向けネイティブ前装Robotaxiも初公開予定。会場に「未来都市」を構築し、Robotaxiと交通信号機ロボットの協調デモンストレーションなど、未来のモビリティを体験できるようにする。</p><p><a href="https://www.geekcar.com/archives/140260">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 中国MIIT、AI「産業ロードマップ」を発表、自動車を重点支援分野に指定</title>
-      <link>https://autonews.gasgoo.com/articles/news/miit-releases-ai-industry-roadmap-automotive-listed-as-key-empowerment-area-2111354480578146305</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/miit-releases-ai-industry-roadmap-automotive-listed-as-key-empowerment-area-2111354480578146305</guid>
-      <pubDate>Sat, 17 Oct 2026 15:10:57 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>中国工業情報化省（MIIT）が「AI新工業化高価値シナリオ」を発表し、自動車を含む20業種で1,000以上のAI活用事例を示した。八省庁共同の「AI+製造」アクション計画で自動車は重点分野となり、インテリジェント運転支援の加速が期待される。中国は製造業をAI導入の主戦場と位置付け、産業全体の高度化を推進している。</p><p><a href="https://autonews.gasgoo.com/articles/news/miit-releases-ai-industry-roadmap-automotive-listed-as-key-empowerment-area-2111354480578146305">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] BTL、青亭湖R&amp;Dセンターを稼働開始、スマートシャシ開発体制を強化</title>
-      <link>https://autonews.gasgoo.com/articles/news/btl-qingting-lake-rd-center-officially-goes-online-2111352404947124224</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/btl-qingting-lake-rd-center-officially-goes-online-2111352404947124224</guid>
-      <pubDate>Sat, 17 Oct 2026 15:02:53 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>シャシ部品メーカーBTLが武漢に新設した青亭湖R&amp;Dセンターを稼働させ、約1,000名の開発人員を集約した。電制ブレーキ（EMB）やワイヤコントロールブレーキ（WCBS）など自動運転向けコア技術の開発を加速する。機械・油圧・ソフトウェア・アルゴリズム・機能安全の融合開発により、スマートシャシ関連事業を推進。</p><p><a href="https://autonews.gasgoo.com/articles/news/btl-qingting-lake-rd-center-officially-goes-online-2111352404947124224">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] フィボコムとハンシェンエレクトロニクス、経営統合完了、スマートコックピット・インテリジェント運転を強化</title>
-      <link>https://autonews.gasgoo.com/articles/news/fibocom-and-hangsheng-electronics-successfully-complete-restructuring-2111348569340002305</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/fibocom-and-hangsheng-electronics-successfully-complete-restructuring-2111348569340002305</guid>
-      <pubDate>Sat, 17 Oct 2026 14:47:50 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>無線通信モジュール大手フィボコムが自動車電子大手ハンシェンエレクトロニクスとの統合を完了。スマートコックピット、インテリジェント運転、車内接続基盤を核事業とし、embodied-AIなど新興分野も展開。自動車グレードの無線接続とエッジAI処理で自動運転関連システムの高度化を推進。</p><p><a href="https://autonews.gasgoo.com/articles/news/fibocom-and-hangsheng-electronics-successfully-complete-restructuring-2111348569340002305">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] JAECOOとMomenta、パリ凱旋門でL2++自動運転チャレンジを完走</title>
-      <link>https://autonews.gasgoo.com/articles/news/jaecoo-and-momenta-complete-l2-driving-challenge-at-pariss-arc-de-triomphe-2110998376476016640</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/jaecoo-and-momenta-complete-l2-driving-challenge-at-pariss-arc-de-triomphe-2110998376476016640</guid>
-      <pubDate>Fri, 16 Oct 2026 15:36:02 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>JAECOOとMomentaがパリモーターショー期間中、Momenta R7 World Modelを搭載したJAECOO 7テスト車で凱旋門ラウンドアバウトの11.38km区間を完全自動走行させた。急カーブ、車線なしの道路、複雑な交差点、歩行者・自転車との交流など、欧州の過酷な走行条件での0回タイオーバーL2++走行を実証した。車両はまだ試験検証段階にあり、両社が欧州向けに共同開発する知能運転支援システムのショーケースとなった。</p><p><a href="https://autonews.gasgoo.com/articles/news/jaecoo-and-momenta-complete-l2-driving-challenge-at-pariss-arc-de-triomphe-2110998376476016640">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] XPENGが「XPENG AI ENGINEERING」を発表、スマートビークルとフィジカルAIのパートナーシップ展開</title>
-      <link>https://autonews.gasgoo.com/articles/news/xpeng-presents-xpeng-ai-engineering-opens-smart-vehicle-and-physical-ai-partnerships-2110980328427851777</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/xpeng-presents-xpeng-ai-engineering-opens-smart-vehicle-and-physical-ai-partnerships-2110980328427851777</guid>
-      <pubDate>Fri, 16 Oct 2026 14:24:23 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>XPENGがパリモーターショーで新事業「XPENG AI ENGINEERING」を発表し、スマートビークル技術とフィジカルAIエコシステムの世界規模での開放型パートナーシップを開始した。10ギガビットイーサネット対応のE/E構造、第2世代VLAベースのTuring AI運転、L3レベルの安全冗長性、15分での全車OTA更新などを提供する。AI BOXは30億パラメータのMoEモデルを搭載し、Turing AIチップと8C超急速充電バッテリーで差別化を図る。</p><p><a href="https://autonews.gasgoo.com/articles/news/xpeng-presents-xpeng-ai-engineering-opens-smart-vehicle-and-physical-ai-partnerships-2110980328427851777">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
