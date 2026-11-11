@@ -5,8 +5,62 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 22:45:09 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 【L2+】テスラ、無許可のFSDテストをめぐり中国メディアD1EVに法的措置を警告</title>
+      <link>https://carnewschina.com/2026/11/11/chinese-media-ceo-defies-teslas-legal-threat-over-unauthorized-fsd-testing-see-you-in-court/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/11/11/chinese-media-ceo-defies-teslas-legal-threat-over-unauthorized-fsd-testing-see-you-in-court/</guid>
+      <pubDate>Wed, 11 Nov 2026 02:47:35 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>テスラの法務チームは、中国のNEV系メディアD1EVに対し、FSDソフトウェアの無許可のテストと宣伝を直ちに停止するよう求める通知を送付した。問題となったのは長沙で開かれた「インテリジェント運転支援コンペティション」で、D1EVは非公式に有効化されたFSD V14.2.2を搭載したModel Yを使用した。テスラは、地域制限を回避するための不正なハッキングと有効化があったと主張し、関連動画の削除や謝罪などを求めている。</p><p><a href="https://carnewschina.com/2026/11/11/chinese-media-ceo-defies-teslas-legal-threat-over-unauthorized-fsd-testing-see-you-in-court/">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2】フォード、ドライバー疲労検出システムの特許を出願　前方カメラと車内カメラを組み合わせ</title>
+      <link>https://auto.gasgoo.com/news/202611/10I70477542C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/10I70477542C409.shtml</guid>
+      <pubDate>Tue, 10 Nov 2026 12:08:34 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>フォードは、ドライバーの眠気を検出する車載システムの特許を米国特許商標庁に出願し、2026年11月3日に公開された（特許番号12784586）。前方カメラで車線内での車両の揺れを、ドライバー向けカメラで顔の特徴や身体の姿勢を捉え、両者のデータを関連付けて疲労の信頼度を算出する。閾値を超えると警告を出し、反応がなければ音量と頻度を上げる。フォードは、特許出願が製品計画を示すものではないと説明している。</p><p><a href="https://auto.gasgoo.com/news/202611/10I70477542C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 清華大学などの研究チーム、自動運転向け協調認識フレームワーク「Which2comm」を開発</title>
+      <link>https://auto.gasgoo.com/news/202611/10I70477541C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/10I70477541C409.shtml</guid>
+      <pubDate>Tue, 10 Nov 2026 12:07:25 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>その他</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>清華大学自動化学部と浙江大学智能交通システム研究所の研究チームは、コネクテッド・自動運転車両向けの協調認識フレームワーク「Which2comm」を発表した。領域単位の特徴マップではなく、オブジェクト単位の「セマンティック検出ボックス（SemDBs）」を車両間で送信する。安全リスクに基づいて協調する車両を選ぶ戦略を採用し、時系列特徴融合と相対時間符号化で通信遅延に対応する。V2XSetでは伝送量0.022MBでAP@0.7が0.833だった。</p><p><a href="https://auto.gasgoo.com/news/202611/10I70477541C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2+】ボッシュ、ADAS向けに慣性センサー「SMI340」を投入へ　ESPとL2+の運転支援に対応</title>
+      <link>https://auto.gasgoo.com/news/202611/10I70477539C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/10I70477539C409.shtml</guid>
+      <pubDate>Tue, 10 Nov 2026 12:03:05 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>ボッシュは2026年のミュンヘン電子展で、6自由度の慣性測定ユニット「SMI340」を発表する。SMI240とSMI270の後継で、ESP機能を加え、従来は個別だったセンサー機能を一つのプラットフォームに統合した。サイズは3.1×4.4mm²で、ASIL Dまでの機能安全に対応する。-40°Cから125°Cの温度範囲と耐振動性を高め、L2+のADASではハンズオフ運転などの運動情報源となる。16ビット分解能とFIFOバッファを備える。</p><p><a href="https://auto.gasgoo.com/news/202611/10I70477539C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L4】L4の次の「試験場」は世界モデルか　百度Apollo、「Apollo World」を初公開</title>
+      <link>https://auto.gasgoo.com/news/202611/10I70477471C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/10I70477471C601.shtml</guid>
+      <pubDate>Tue, 10 Nov 2026 03:28:23 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L4</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>百度Apolloは深圳のAI Dayで、エージェント駆動の全モーダル世界モデル「Apollo World」を初めて公開し、「2+3」の評価基準を示した。萝卜快跑（Apollo Go）は世界28都市で展開し、累計2,300万回以上の乗車サービスを提供した。自動運転の総走行距離は3.5億km、うち完全無人は2.4億km超。同社はモデルの更新ごとに70万km超の有人安全員付きの実路試験を行っているとも説明した。</p><p><a href="https://auto.gasgoo.com/news/202611/10I70477471C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2+】魏ブランドの二代目「蓝山」が予約販売開始　28.98万元から</title>
+      <link>https://auto.gasgoo.com/news/202611/10I70477460C107.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/10I70477460C107.shtml</guid>
+      <pubDate>Tue, 10 Nov 2026 02:32:52 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>魏（WEY）は11月9日、二代目「蓝山」の予約販売を開始した。価格は28.98万元から。5座と6座の2種類を用意する。運転支援には「Coffee Pilot 4 V5」システムを搭載し、VLA Plusモデルを組み合わせる。計算チップはクアルコム Snapdragon 8797とNVIDIA Thor-Uのデュアル構成で、車両全体に28個のセンサーを配置する。シャシーは双方向20°の後輪操舵とデュアルチャンバー式エアサスを備える。</p><p><a href="https://auto.gasgoo.com/news/202611/10I70477460C107.shtml">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★☆☆] 国芯科技、CCRC4系列の中央ドメイン用MCUを発表　顧客へのサンプル出荷を開始</title>
       <link>https://auto.gasgoo.com/news/202611/10I70477416C601.shtml</link>
@@ -454,54 +508,6 @@
       <pubDate>Wed, 21 Oct 2026 23:59:31 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong></p><p>QCraftがHorizon Robotics Journey 6シングルチップを用いた業界初の量産アーバンNOAソリューションで、10万～20万元の主流価格帯に9モデルを連続投入している。128TOPSの演算能力で256TOPSレベルの運転体験を実現し、高度な自動運転支援を量産可能な低コスト化により実現した。これにより自動運転支援技術の民主化が加速している。</p><p><a href="https://autonews.gasgoo.com/articles/news/nine-models-launch-in-succession-as-qcraft-brings-urban-noa-to-the-100000-200000-yuan-price-bracket-2112936958992470016">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] フォルクスワーゲンのJetta M6 EVが中国で発売、アーバンNOA機能搭載</title>
-      <link>https://carnewschina.com/2026/10/22/volkswagens-jetta-m6-ev-launched-in-china-with-up-to-555-km-range-starting-at-11900-usd/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/10/22/volkswagens-jetta-m6-ev-launched-in-china-with-up-to-555-km-range-starting-at-11900-usd/</guid>
-      <pubDate>Thu, 22 Oct 2026 12:28:12 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>フォルクスワーゲンがJetta M6 EVを中国市場で発売した。最大555km走行距離、11,900米ドルの手頃な価格帯でありながら、アーバンNOA（ノーハンズ運転支援）機能を搭載している。この車種は自動運転支援機能を普及価格帯へ広げる事例として注目される。</p><p><a href="https://carnewschina.com/2026/10/22/volkswagens-jetta-m6-ev-launched-in-china-with-up-to-555-km-range-starting-at-11900-usd/">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 東風モータースのEPICLAND X9が全国納車開始、Huawei Qiankun ADS 5搭載</title>
-      <link>https://autonews.gasgoo.com/articles/news/epicland-x9-nationwide-centralized-delivery-begins-mid-to-high-trim-orders-account-for-over-95-2112938391611523073</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/epicland-x9-nationwide-centralized-delivery-begins-mid-to-high-trim-orders-account-for-over-95-2112938391611523073</guid>
-      <pubDate>Thu, 22 Oct 2026 00:05:04 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>東風モーターのEPICLANDブランドが旗艦SUVの第2世代モデルEPICLAND X9の全国納車を開始した。全車両にHuawei Qiankun ADS 5と896ラインLiDARを標準装備し、インテリジェント運転支援機能を提供する。公道テストで実車性能を実証し、ユーザーニーズに応じたスマートサービスを展開している。</p><p><a href="https://autonews.gasgoo.com/articles/news/epicland-x9-nationwide-centralized-delivery-begins-mid-to-high-trim-orders-account-for-over-95-2112938391611523073">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 北汽星钽5X、13万9千元から超大空間スマートSUVとして先行予約販売開始</title>
-      <link>https://www.geekcar.com/archives/140293</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140293</guid>
-      <pubDate>Wed, 21 Oct 2026 16:27:36 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong></p><p>北汽の新ブランド「星钽」が投入する初代SUV「星钽5X」が先行予約販売を開始した。価格は13.99万～18.49万元で、超大型ボディと運転支援機能を備える。乾崑智驾版は固定式LiDARを装備し、ADS高階機能パッケージなどの運転支援オプションを提供する。電池自燃時の3倍賠償保険や終身OTAアップデートなどの手厚い保証が特徴である。</p><p><a href="https://www.geekcar.com/archives/140293">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] 奇瑞、瑶光2035戦略フェーズに突入、AI基盤モデルとチップポートフォリオを発表</title>
-      <link>https://autonews.gasgoo.com/articles/news/chery-enters-yaoguang-2035-strategy-phase-unveils-ai-model-chip-portfolio-2112840533017247745</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/chery-enters-yaoguang-2035-strategy-phase-unveils-ai-model-chip-portfolio-2112840533017247745</guid>
-      <pubDate>Wed, 21 Oct 2026 17:35:58 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>奇瑞は瑶光2035戦略フェーズに突入し、AI駆動の技術エコシステム構築を目指している。CheryMind基盤モデルとZiweiチップシリーズを発表し、フィジカルAIを中核技術として位置づけた。戦略は電動化、知能運転支援、グローバル展開など5つの要素を含む。Ziwei S1500シリコンカーバイドチップは99.6%のピーク効率を達成し、200℃での動作が可能である。</p><p><a href="https://autonews.gasgoo.com/articles/news/chery-enters-yaoguang-2035-strategy-phase-unveils-ai-model-chip-portfolio-2112840533017247745">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] 理想汽車が「連山」電動技術体系を発表、自動運転対応の次世代EV向け電池・電駆動システムを公開</title>
-      <link>https://www.geekcar.com/archives/140287</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140287</guid>
-      <pubDate>Tue, 20 Oct 2026 16:44:53 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong></p><p>理想汽車は2026年10月20日、Power Dayイベントで「連山」電動技術体系を正式発表した。連山電池、連山電駆、超充設備、自建超充ネットワークを統合し、10分間の充電で500km航続可能な5C超充を実現する。レンジエクステンダー・EV双方に対応し、電池安全保障計画を導入。2027年春前に超充ステーション8,300基まで拡充予定。</p><p><a href="https://www.geekcar.com/archives/140287">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] イー・ジングEV版、工信部申報完了、11月初公開予定</title>
-      <link>https://www.geekcar.com/archives/140283</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140283</guid>
-      <pubDate>Mon, 19 Oct 2026 14:58:34 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong></p><p>東風・ファーウェイ共同開発のイー・ジング X9 EV版が工信部に申報され、11月に初公開される予定。後輪駆動版300kW、四輪駆動版450kWの2種類を用意し、ファーウェイの乾崑ADSを搭載した高級ファミリーセダンとして位置付けられている。レンジエクステンダー版の成功に続き、EV版により多様なユーザーニーズに対応する。</p><p><a href="https://www.geekcar.com/archives/140283">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
