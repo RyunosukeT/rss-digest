@@ -5,8 +5,26 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 22:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:46:07 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 物理情報駆動の隊列制御フレームワークを開発、自動運転車の隊列走行の信頼性向上へ</title>
+      <link>https://auto.gasgoo.com/news/202611/12I70477774C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/12I70477774C409.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 08:38:27 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>その他</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>東南大学とモナシュ大学の研究チームが、自動運転車両の隊列走行（車間を詰めた協調走行）を制御するフレームワークを開発した。ホイールオドメトリ、IMU、GPSを統合して車両状態を推定し、モデル予測制御（MPC）と横方向の前方フィードフォワード・フィードバック制御（LFFC）を組み合わせたコントローラを構築した。オフラインCQLで制御パラメータを校正し、ニューラル残差学習で執行器の遅れを補償する。ROSベースの2台の車両でシミュレーションと実車試験を行い、隊列安定性と追従精度の向上を確認したとされる。掲載誌はCommunications in Transportation Research。</p><p><a href="https://auto.gasgoo.com/news/202611/12I70477774C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] Universal DisplayとOLEDWorks、自動運転システムの通信に使う青緑色OLED照明を評価</title>
+      <link>https://auto.gasgoo.com/news/202611/12I70477749C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/12I70477749C409.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 06:43:00 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>その他</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>Universal DisplayとOLEDWorksは、自動運転システム（ADS）の通信用途として青緑色（シアン）OLED照明を評価する協業を発表した。Universal Displayのリン光青色OLED材料とOLEDWorksのパネル開発・製造技術を組み合わせる。シアンはADSの識別色として国際的に広がりつつある。Audi照明開発部門も参加し、段階ごとに制御可能なデジタルOLEDで車両の存在、状態、予定動作を周囲に伝える可能性を評価する。</p><p><a href="https://auto.gasgoo.com/news/202611/12I70477749C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] 【L2+】テスラ、無許可のFSDテストをめぐり中国メディアD1EVに法的措置を警告</title>
       <link>https://carnewschina.com/2026/11/11/chinese-media-ceo-defies-teslas-legal-threat-over-unauthorized-fsd-testing-see-you-in-court/</link>
@@ -492,22 +510,6 @@
       <pubDate>Fri, 23 Oct 2026 16:43:10 GMT</pubDate>
       <category>GeekCar</category>
       <description><![CDATA[<p><strong>GeekCar</strong></p><p>タンク500の27型が10月23日に33.5万～37.5万元で発売された。VLA大規模モデル搭載の全域運転支援システムを標準装備し、296項目のハードウェア・ソフトウェア最適化を実施している。コックピットの大幅刷新、デザイン工学、安全性の向上により、価格据え置きで充実した豪華SUVを実現した。運転支援システムの生涯無料利用特典も付与される。</p><p><a href="https://www.geekcar.com/archives/140315">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] WeRideがマドリードでロボタクシーサービスを2026年末までに開始予定</title>
-      <link>https://autonews.gasgoo.com/articles/news/weride-targets-madrid-robotaxi-service-launch-by-end-2026-2113200818395688961</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/weride-targets-madrid-robotaxi-service-launch-by-end-2026-2113200818395688961</guid>
-      <pubDate>Thu, 22 Oct 2026 17:27:52 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>WeRideはスペインのマドリードで2026年末までに商用ロボタクシーサービスの開始を計画している。同社は9月にスペイン初のレベル4自動運転乗用車の運用許可を取得し、公道テストから商用展開へ移行している。UberとAVOMOとの協力により、自動運転技術とライドシェアプラットフォームを統合したサービスモデルを構築する。この展開はヨーロッパにおける自動運転車両の商用化を加速させる重要な事例となる。</p><p><a href="https://autonews.gasgoo.com/articles/news/weride-targets-madrid-robotaxi-service-launch-by-end-2026-2113200818395688961">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] QCraftが単一チップのアーバンNOAを主流価格帯に実現、9モデル連続投入</title>
-      <link>https://autonews.gasgoo.com/articles/news/nine-models-launch-in-succession-as-qcraft-brings-urban-noa-to-the-100000-200000-yuan-price-bracket-2112936958992470016</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/nine-models-launch-in-succession-as-qcraft-brings-urban-noa-to-the-100000-200000-yuan-price-bracket-2112936958992470016</guid>
-      <pubDate>Wed, 21 Oct 2026 23:59:31 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>QCraftがHorizon Robotics Journey 6シングルチップを用いた業界初の量産アーバンNOAソリューションで、10万～20万元の主流価格帯に9モデルを連続投入している。128TOPSの演算能力で256TOPSレベルの運転体験を実現し、高度な自動運転支援を量産可能な低コスト化により実現した。これにより自動運転支援技術の民主化が加速している。</p><p><a href="https://autonews.gasgoo.com/articles/news/nine-models-launch-in-succession-as-qcraft-brings-urban-noa-to-the-100000-200000-yuan-price-bracket-2112936958992470016">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
