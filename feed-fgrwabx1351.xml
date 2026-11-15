@@ -5,8 +5,17 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 22:44:23 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 【L2+】極狐、換電エコシステム「極+時代」を発表　新車2車種を発売、租電価格は5.2万元から</title>
+      <link>https://auto.gasgoo.com/news/202611/14I70477996C107.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/14I70477996C107.shtml</guid>
+      <pubDate>Sat, 14 Nov 2026 04:15:24 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>極狐（ARCFOX）は11月13日、換電エコシステム「極+時代」を発表し、換電対応の新車2車種を発売した。貝塔T1換電版は車電分離価格が5.2万元と6万元で、CATLの54kWh「巧克力」電池を搭載し、航続距離530km、99秒で自動換電できる。貝塔S3激光換電版は7.88万元で、192ラインLiDARを搭載し、城区NOA、高速NOA、記憶泊車などの運転支援機能に対応する。航続距離は535km。CATLの換電ステーションは今年9月末時点で2,500基超、2027年に6,000基を計画している。</p><p><a href="https://auto.gasgoo.com/news/202611/14I70477996C107.shtml">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] 【L3】启境GT7 Ultra舒享版、増程・EVの2車種を発売　L3級アーキテクチャ搭載</title>
       <link>https://www.geekcar.com/archives/140454</link>
@@ -507,14 +516,6 @@
       <pubDate>Mon, 26 Oct 2026 06:30:03 GMT</pubDate>
       <category>CarNewsChina</category>
       <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>BYDが次世代Seal 07の先行受注を開始した。LiDAR搭載、プラグインハイブリッドとEVのバージョンがあり、ホイールベースは2,960mm。LiDARの搭載は自動運転機能の強化を示唆している。</p><p><a href="https://carnewschina.com/2026/10/26/byd-opens-blind-orders-for-second-generation-seal-07-with-lidar-and-2960-mm-wheelbase/">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] 東風、ファーウェイ搭載のM-Hero X700 SUVを投入</title>
-      <link>https://carnewschina.com/2026/10/26/dongfeng-launches-m-hero-x700-suv-with-huawei-intelligence/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/10/26/dongfeng-launches-m-hero-x700-suv-with-huawei-intelligence/</guid>
-      <pubDate>Mon, 26 Oct 2026 01:20:10 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>東風がファーウェイのインテリジェンス（AI技術）を搭載したプラグインハイブリッドSUV「M-Hero X700」を発表した。ファーウェイの技術統合は先進運転支援機能の強化を示唆するが、自動運転レベルについては明記されていない。</p><p><a href="https://carnewschina.com/2026/10/26/dongfeng-launches-m-hero-x700-suv-with-huawei-intelligence/">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
