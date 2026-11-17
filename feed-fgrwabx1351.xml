@@ -5,8 +5,26 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:44:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:46:34 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★★] 【L2+】NOA強制標準のカウントダウン、次の競争軸はどこか</title>
+      <link>https://auto.gasgoo.com/news/202611/16I70478016C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/16I70478016C601.shtml</guid>
+      <pubDate>Sun, 15 Nov 2026 23:30:00 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>工業情報化部は、組み合わせ運転支援システムの安全要求を定めた強制性国家標準GB 47955-2026を発布し、2027年1月1日から新規に型式認可を申請する車両に強制適用すると明らかにした。中国のL2組み合わせ運転支援に関する初の強制国標。システムは基礎単車線、基礎多車線、領航輔助の3区分に分けられる。NOAは自動車線変更と高速道路の出入口進入が可能だが、実線区間での変更は禁止され、交差点付近では事前に自主変更を終える必要がある。ドライバー状態を段階的に監視し、違反が重なると少なくとも30分間機能を停止する。DSSADデータ記録も必須。2026年8月時点で乗用車約6100万台がL2機能、約1500万台がNOA機能を搭載している。</p><p><a href="https://auto.gasgoo.com/news/202611/16I70478016C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2+】黄仁勲退任後のNVIDIA、中国での運転支援チップ事業は短期的に安定か</title>
+      <link>https://auto.gasgoo.com/news/202611/15I70478058C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/15I70478058C601.shtml</guid>
+      <pubDate>Sat, 14 Nov 2026 23:54:26 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>黄仁勲がNVIDIAのCEOを11月12日に退任した。記事によると、2026年1～9月の中国の運転支援ドメインコントローラー向けチップ市場でNVIDIAは30%のシェアを持ち、Orin-X、Orin-N、Thor-Uの合計装機量は183万個に達した。蔚来は2024年に約80万個を調達したとされる。理想汽車は次世代車の中央計算プラットフォームにThorを採用し、小鵬、BYD、広汽昊鉑もThor搭載計画を公表した。2026年初めには、BYDと吉利がDRIVE Hyperionを用いたL4自動運転車の開発を発表した。</p><p><a href="https://auto.gasgoo.com/news/202611/15I70478058C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★☆] 【L2+】極狐、換電エコシステム「極+時代」を発表　新車2車種を発売、租電価格は5.2万元から</title>
       <link>https://auto.gasgoo.com/news/202611/14I70477996C107.shtml</link>
@@ -500,22 +518,6 @@
       <pubDate>Mon, 26 Oct 2026 04:58:04 GMT</pubDate>
       <category>Gasgoo</category>
       <description><![CDATA[<p><strong>Gasgoo</strong></p><p>XPENGが広州での市全域にわたるレベル4ロボタクシー実証運行の許可を獲得した。中国初の量産ロボタクシー「YOYO」を使用し、4基のTuring AIチップと独自技術スタックで実装される。実証運行を通じて営業・運用効率、コスト構造などのデータ収集・分析を進める。</p><p><a href="https://autonews.gasgoo.com/articles/news/xpeng-receives-approval-for-citywide-l4-robotaxi-demonstration-operations-in-guangzhou-2114582216683962369">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] Pony.ai、inDrive、NVIDIAがカザフスタンでL4ロボタクシー試験運用を計画</title>
-      <link>https://autonews.gasgoo.com/articles/news/ponyai-indrive-nvidia-plan-l4-robotaxi-pilot-in-kazakhstan-2114569826152099841</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/ponyai-indrive-nvidia-plan-l4-robotaxi-pilot-in-kazakhstan-2114569826152099841</guid>
-      <pubDate>Mon, 26 Oct 2026 04:07:42 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>Pony.aiが中央アジア初となるカザフスタンでinDriveおよびNVIDIAとL4自動運転ロボタクシーの試験運用を開始する覚書を締結した。Gen-7ロボタクシー車両とPony.aiの最新L4自動運転システムを活用し、まずアスタナでの試験運用を予定している。</p><p><a href="https://autonews.gasgoo.com/articles/news/ponyai-indrive-nvidia-plan-l4-robotaxi-pilot-in-kazakhstan-2114569826152099841">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] BYD、2代目Seal 07のLiDAR搭載モデルの先行受注を開始</title>
-      <link>https://carnewschina.com/2026/10/26/byd-opens-blind-orders-for-second-generation-seal-07-with-lidar-and-2960-mm-wheelbase/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/10/26/byd-opens-blind-orders-for-second-generation-seal-07-with-lidar-and-2960-mm-wheelbase/</guid>
-      <pubDate>Mon, 26 Oct 2026 06:30:03 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>BYDが次世代Seal 07の先行受注を開始した。LiDAR搭載、プラグインハイブリッドとEVのバージョンがあり、ホイールベースは2,960mm。LiDARの搭載は自動運転機能の強化を示唆している。</p><p><a href="https://carnewschina.com/2026/10/26/byd-opens-blind-orders-for-second-generation-seal-07-with-lidar-and-2960-mm-wheelbase/">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
