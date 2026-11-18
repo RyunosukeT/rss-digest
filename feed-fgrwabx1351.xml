@@ -5,8 +5,53 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:46:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:45:07 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 【L4】Momenta・Uber、ドイツ・ミュンヘンで監視付きロボタクシーのパイロット運行を開始</title>
+      <link>https://cnevpost.com/2026/11/18/momenta-uber-launch-robotaxi-pilot-germany/</link>
+      <guid isPermaLink="true">https://cnevpost.com/2026/11/18/momenta-uber-launch-robotaxi-pilot-germany/</guid>
+      <pubDate>Wed, 18 Nov 2026 10:05:19 GMT</pubDate>
+      <category>CnEVPost</category>
+      <category>L4</category>
+      <description><![CDATA[<p><strong>CnEVPost</strong></p><p>Momentaと Uberは、ドイツ・ミュンヘン北部でUberアプリ経由の監視付き自動運転車の試験サービスを開始した。当初はオリンピックパーク周辺を含む北部の広い範囲で運行し、事前に選ばれた利用者は無料で乗車できる。各便には安全オペレーターが同乗する。サービス提供エリアは規制の範囲内で段階的に拡大する予定だ。</p><p><a href="https://cnevpost.com/2026/11/18/momenta-uber-launch-robotaxi-pilot-germany/">元記事を読む</a></p><p>同じ話題の他の記事:</p><ul><li><a href="https://carnewschina.com/2026/11/18/momenta-powered-im-ls6-suv-became-available-for-autonomous-rides-in-germany/">Momenta-powered IM LS6 SUV became available for autonomous rides in Germany</a>（CarNewsChina）</li></ul>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L3】中国の自動車メーカー初、高速道路でL3自動運転の試験を開始　BAICとHUAWEI</title>
+      <link>https://carnewschina.com/2026/11/18/the-first-chinese-automaker-began-l3-autopilot-tests-on-highways/</link>
+      <guid isPermaLink="true">https://carnewschina.com/2026/11/18/the-first-chinese-automaker-began-l3-autopilot-tests-on-highways/</guid>
+      <pubDate>Wed, 18 Nov 2026 03:40:20 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <category>L3</category>
+      <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>北京汽車のブランドStelatoは11月17日、HUAWEIと共同開発したStelato V8ミニバンで、都市間高速道路でL3自動運転システムの実走試験を開始したと発表した。試験は最高速120km/hまでで、事前にシミュレーションや閉鎖コースでの検証を行った。中国では長安汽車と北京汽車が条件付きL3の認可を取得しており、L3・L4の新基準は2027年7月1日に施行予定だ。</p><p><a href="https://carnewschina.com/2026/11/18/the-first-chinese-automaker-began-l3-autopilot-tests-on-highways/">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2+】一汽-フォルクスワーゲン ID. AURA L5、予約受付を開始　Journey 6Hチップを搭載</title>
+      <link>https://auto.gasgoo.com/news/202611/17I70478255C109.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/17I70478255C109.shtml</guid>
+      <pubDate>Tue, 17 Nov 2026 07:30:34 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>一汽-フォルクスワーゲンのID. AURA L5が11月16日に予約を開始した。580 Plus、580 Pro、580 Max（LiDAR版）の3グレードを用意する。運転支援はHorizon RoboticsのJourney 6Hチップ（420TOPS）と192ラインLiDAR、25個の知覚ハードウェアを組み合わせ、ワンステージのエンドツーエンド方式で都市NOA、高速NOA、自動駐車に対応する。コックピットは4nmチップで、CLTCの航続距離は580km。</p><p><a href="https://auto.gasgoo.com/news/202611/17I70478255C109.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2+】エヌビディアの経営混乱で国産チップの好機は広がるか</title>
+      <link>https://auto.gasgoo.com/news/202611/17I70478238C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/17I70478238C601.shtml</guid>
+      <pubDate>Tue, 17 Nov 2026 04:14:22 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>エヌビディアは11月12日、黄仁勳氏が社長・CEO・取締役を辞任し、CFOのColette Kressが暫定CEOに就任したと発表した。盖世汽車研究院のADAS配置データベースによると、2026年1～9月の中国乗用車の智駕ドメインコントローラー（舱駕一体を含む）チップ装機では、華為昇騰610が86.03万枚（シェア14.4%）で首位、地平線征程6Mが78.50万枚（13.2%）、エヌビディアThor-Uが77.67万枚（13%）で続く。メーカー別ではエヌビディアのOrin・Thorシリーズ合計が30.5%。高通、テスラ自研FSD、蔚来自研神璣NX9031も上位に入っている。</p><p><a href="https://auto.gasgoo.com/news/202611/17I70478238C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★☆☆] Hesai（禾賽）、最大1億ドルの自社株買いを発表　香港株は史上安値付近</title>
+      <link>https://cnevpost.com/2026/11/18/hesai-buyback-100-million/</link>
+      <guid isPermaLink="true">https://cnevpost.com/2026/11/18/hesai-buyback-100-million/</guid>
+      <pubDate>Wed, 18 Nov 2026 08:56:55 GMT</pubDate>
+      <category>CnEVPost</category>
+      <category>その他</category>
+      <description><![CDATA[<p><strong>CnEVPost</strong></p><p>LiDARメーカーのHesaiは、取締役会が最大1億ドルの自社株買いを承認したと発表した。香港上場株は11月18日に一時HK$12.00まで下落し、史上安値HK$11.50に近い水準にある。自己資金で賄い、買い戻した株式は消却する方針だ。同社は2026年第3四半期に6四半期連続の黒字を計上し、同四半期に72万9673台のLiDARを出荷した。</p><p><a href="https://cnevpost.com/2026/11/18/hesai-buyback-100-million/">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] 【L2+】NOA強制標準のカウントダウン、次の競争軸はどこか</title>
       <link>https://auto.gasgoo.com/news/202611/16I70478016C601.shtml</link>
@@ -478,46 +523,6 @@
       <pubDate>Thu, 29 Oct 2026 06:51:44 GMT</pubDate>
       <category>CarNewsChina</category>
       <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>中国の自動車技術者グループが2027年の自動車産業の主要技術トレンドトップ10を発表した。固体電池、V2G（車から電網への充放電）、コネクテッドADAS（運転支援システム）が重要項目として挙げられている。</p><p><a href="https://carnewschina.com/2026/10/29/engineers-named-ten-automotive-technology-trends-in-china-for-2027/">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] neueHCT運転支援システムがGWMハヴァル大犬HEV版に搭載開始、複数パワートレイン対応で都市NOA機能を普及</title>
-      <link>https://autonews.gasgoo.com/articles/news/neuehcts-one-stage-end-to-end-adas-enters-production-on-gwm-haval-big-dog-hev-2115029860732518401</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/neuehcts-one-stage-end-to-end-adas-enters-production-on-gwm-haval-big-dog-hev-2115029860732518401</guid>
-      <pubDate>Tue, 27 Oct 2026 10:35:59 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>neueHCTのワンステージエンドツーエンド運転支援システム「HCT Astra」がGreat Wall Motorハヴァル大犬に量産搭載され、同時にHEV版としても初採用された。Horizon Robotics Journey 6Mチップ単体で128 TOPSの演算性能を実現し、都市NOA・高速自動車線変更・自動駐車などの機能を備える。応答時間200ms以下、複数都市・シナリオでの汎化性能を有する。</p><p><a href="https://autonews.gasgoo.com/articles/news/neuehcts-one-stage-end-to-end-adas-enters-production-on-gwm-haval-big-dog-hev-2115029860732518401">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 奕境X9が業界初のエアサスペンション終身保証を常態化、家族ユーザーの長期保有コストを大幅削減</title>
-      <link>https://www.geekcar.com/archives/140336</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140336</guid>
-      <pubDate>Tue, 27 Oct 2026 14:50:25 GMT</pubDate>
-      <category>GeekCar</category>
-      <description><![CDATA[<p><strong>GeekCar</strong></p><p>奕境汽車はX9に搭載する双腔エアサスペンションを含む終身保証を限定的な施策から永久的な権益へと升级した。整車・三電・レンジエクステンダー・高額なエアサスペンション修理すべてを保証対象とする本施策は、業界で唯二の取組みとなる。東風とファーウェイ乾崑の品質管控体系に支えられた本格的な製品実力があるからこそ、長期にわたるユーザーの修理コストを企業が負担する決断が可能になった。</p><p><a href="https://www.geekcar.com/archives/140336">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] AUMOVIOが中国市場向け自主開発のミリ波レーダーRAD72Cを初搭載獲得、現地チーム主導の製品開発体制を確立</title>
-      <link>https://autonews.gasgoo.com/articles/news/aumovio-takes-its-china-strategy-to-the-next-level-2115037478448414721</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/aumovio-takes-its-china-strategy-to-the-next-level-2115037478448414721</guid>
-      <pubDate>Tue, 27 Oct 2026 11:06:03 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>コンチネンタルから分離し独立上場したAUMOVIOが、中国市場向けに自主開発した第7世代ミリ波レーダーRAD72Cを発表した。中国メーカー複数社からの採用獲得を既に獲得し、2027年第3四半期に量産予定。これは1999年のレーダー開発開始以来初めて、中国チームが市場向けの製品定義・設計・開発すべてを担当する案件である。</p><p><a href="https://autonews.gasgoo.com/articles/news/aumovio-takes-its-china-strategy-to-the-next-level-2115037478448414721">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] Mobileeyeが自動緊急制動システムでTÜV SÜDの開発・検査証明書を初取得、ISO 21448準拠を確認</title>
-      <link>https://autonews.gasgoo.com/articles/news/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345</guid>
-      <pubDate>Tue, 27 Oct 2026 10:45:33 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>Mobileeyeが安全認証機関TÜV SÜDから自動緊急制動（AEB）システムの開発検査証明書を初めて取得した。監査ではISO 21448国際規格への適合を確認し、センサー・認識システムの性能限界を含むリスク評価とミティゲーション体制が検証された。SOTIF（システムの意図された機能の安全性）原則に基づき、設計通りに動作した場合でも生じうる危害を評価・制御する体系構築が確認されている。</p><p><a href="https://autonews.gasgoo.com/articles/news/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★★] XPENGが広州での市全域L4ロボタクシー実証運行の承認を取得</title>
-      <link>https://autonews.gasgoo.com/articles/news/xpeng-receives-approval-for-citywide-l4-robotaxi-demonstration-operations-in-guangzhou-2114582216683962369</link>
-      <guid isPermaLink="true">https://autonews.gasgoo.com/articles/news/xpeng-receives-approval-for-citywide-l4-robotaxi-demonstration-operations-in-guangzhou-2114582216683962369</guid>
-      <pubDate>Mon, 26 Oct 2026 04:58:04 GMT</pubDate>
-      <category>Gasgoo</category>
-      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>XPENGが広州での市全域にわたるレベル4ロボタクシー実証運行の許可を獲得した。中国初の量産ロボタクシー「YOYO」を使用し、4基のTuring AIチップと独自技術スタックで実装される。実証運行を通じて営業・運用効率、コスト構造などのデータ収集・分析を進める。</p><p><a href="https://autonews.gasgoo.com/articles/news/xpeng-receives-approval-for-citywide-l4-robotaxi-demonstration-operations-in-guangzhou-2114582216683962369">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
