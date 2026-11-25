@@ -5,8 +5,44 @@
     <link>https://example.com/</link>
     <description>購読フィードをLLMで要約・翻訳し、興味順に並べ替えた個人用フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 22:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:46:09 GMT</lastBuildDate>
     <atom:link href="https://ryunosuket.github.io/rss-digest/feed-fgrwabx1351.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[★★★★☆] 【L4】Vectigo、自動運転車向けの道路埋め込み型安全システムを発表</title>
+      <link>https://auto.gasgoo.com/news/202611/24I70478967C409.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/24I70478967C409.shtml</guid>
+      <pubDate>Tue, 24 Nov 2026 12:56:35 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L4</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>米Vectigo社は、従来車と自動運転車の走行条件改善を目的とした道路埋め込み型安全プラットフォームを発表した。路面と面一に設置する太陽光発電式センサーユニット「POD」が、ブラックアイス、降雪、冠水、衝突、逆走車両を検知する。米国の販売・施工パートナーRoadSafe Traffic Systemsと提携し、車線単位の情報を提供する。動的車線照明と経路案内、道路標識などで危険を警告する。自動運転車やRobotaxi向けには、カメラ、レーダー、LiDARとは独立した環境データを提供するとしている。送電網に依存せず、コロラド州で検証を進め、5年以内に全米の交通当局への展開と欧州・中東への拡大を計画する。</p><p><a href="https://auto.gasgoo.com/news/202611/24I70478967C409.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2+】小鵬MONA L05、首月1万台の目標を前倒しで達成</title>
+      <link>https://auto.gasgoo.com/news/202611/24I70478915C107.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/24I70478915C107.shtml</guid>
+      <pubDate>Tue, 24 Nov 2026 03:33:33 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>小鵬汽車（XPeng）は、MONA L05の11月前3週の交付台数が1万台を超え、首月1万台の目標を前倒しで達成したと発表した。L05は10月29日に発売されたMONAシリーズ初の大型5座SUVで、EVとスーパーレンジエクステンダーを用意する。運転支援は純視覚方式を採用し、Ultra SE版は自社開発のTuring AIチップ2個、有効演算性能1500TOPSを搭載し、フル版の第2世代VLAモデルに対応する。Max版はチップ1個、750TOPS。交付は6〜10週待ちとなっている。</p><p><a href="https://auto.gasgoo.com/news/202611/24I70478915C107.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L2+】運転支援保険の「三つの門」：支払われない、足りない、わかりにくい</title>
+      <link>https://auto.gasgoo.com/news/202611/24I70478862C601.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/24I70478862C601.shtml</guid>
+      <pubDate>Mon, 23 Nov 2026 23:47:28 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L2+</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>運転支援保障サービスの仕組みを整理した記事。小鵬は2025年に「智能運転支援安心サービス」を発表し、年239元で最高100万元を補償する。NGP、AI代駆、LCCは機能の起動成功後から退出後5秒まで保障期間となり、智能駐車は退出時に終了する。阿維塔は領航支援の保障で最高600万元を設定し、交強険と商業車保険による先行払いを前提とする。比亚迪は今年5月、天神之眼A・B車型の都市領航使用中の有責事故を企業が直接負担すると発表した。上海汽検智能電子系統検測中心は、事故データ検証システムで18万台に保障を提供し、2025年の有効報告書は500件超、権利認定通過率は95%だとした。</p><p><a href="https://auto.gasgoo.com/news/202611/24I70478862C601.shtml">元記事を読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[★★★★☆] 【L3】鴻蒙智行 問界新M8の主要部品サプライヤー一覧</title>
+      <link>https://auto.gasgoo.com/news/202611/24I70478831C107.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202611/24I70478831C107.shtml</guid>
+      <pubDate>Mon, 23 Nov 2026 23:00:00 GMT</pubDate>
+      <category>Gasgoo</category>
+      <category>L3</category>
+      <description><![CDATA[<p><strong>Gasgoo</strong></p><p>問界新M8は重慶の賽力斯超級工場で発売され、10モデル、37.98万〜46.98万元。全系に華為乾崑ADS 5高度版を標準搭載し、WEWA 2.0アーキテクチャをベースにL3級を想定して設計されている。センサーは計38個で、896線デュアルチャンネルの画像級LiDAR 1個と高精度ソリッドステートLiDAR 3個の計4個、分散配置の4Dミリ波レーダー3個と角用4Dミリ波レーダー2個、超音波レーダー12個、高精細カメラ11個、車外マイク6個を備える。896線LiDARは2026年3月発表の量産最高仕様品とされる。</p><p><a href="https://auto.gasgoo.com/news/202611/24I70478831C107.shtml">元記事を読む</a></p>]]></description>
+    </item>
     <item>
       <title>[★★★★★] 【L2+】アプティブ、次世代ADAS向けプラットフォーム「PRISM」を投入</title>
       <link>https://auto.gasgoo.com/news/202611/23I70478814C409.shtml</link>
@@ -510,42 +546,6 @@
       <category>Gasgoo</category>
       <category>L2+</category>
       <description><![CDATA[<p><strong>Gasgoo</strong></p><p>Calterah（加特兰）は、ADAS向けに定義された6送6受のミリ波レーダーSoC「Andes-Pro」を発表した。36の仮想チャネルを持ち、単一チップで水平方向1°、仰角方向3°の角度分解能を実現する。−5dBsmの弱反射目標を200m以上で検出できるとしている。Flex-Cascading技術で2チップを連結すると12送12受に拡張可能。早期サンプルは社内試験中で、2026年第4四半期に顧客へ送付する計画。入門級L2から高度なL2+までの用途を想定する。</p><p><a href="https://auto.gasgoo.com/news/202611/9I70477325C601.shtml">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 【L2+】2027款嵐図（Voyah）知音、11月13日に正式発売へ</title>
-      <link>https://www.geekcar.com/archives/140417</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140417</guid>
-      <pubDate>Mon, 09 Nov 2026 15:22:41 GMT</pubDate>
-      <category>GeekCar</category>
-      <category>L2+</category>
-      <description><![CDATA[<p><strong>GeekCar</strong></p><p>嵐図（Voyah）の2027款知音は11月13日に正式発売される20万元級の大型EV SUV。運転支援はHUAWEIの乾崑ADS 5で、HUAWEI乾崑 896線デュアル光路画像級LiDARを組み合わせる。コックピットはHarmonySpace 5.2。全域800V原生EVアーキテクチャを採用し、81kWhバッテリーでCLTC航続距離650km、5C超急速充電で20〜80%が10分とされる。副座ゼロ重力シート、後席の通風加熱、後席小テーブルなどを全系標準装備とする。</p><p><a href="https://www.geekcar.com/archives/140417">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★★☆] 【L2】智己LS8 NEO EV正式発売 特典価格23.98万元から</title>
-      <link>https://www.geekcar.com/archives/140406</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140406</guid>
-      <pubDate>Mon, 09 Nov 2026 15:12:19 GMT</pubDate>
-      <category>GeekCar</category>
-      <category>L2</category>
-      <description><![CDATA[<p><strong>GeekCar</strong></p><p>智己（IM Motors）のNEXT・2028戦略の第1弾となる、全線控シャシー搭載の大型5人乗りSUV「LS8 NEO」EVが11月5日に発売された。特典価格は23.98万元から。全系で新NEO三電アーキテクチャ（CATL製定制バッテリーの93kWh/103kWh 2仕様）、全線控灵蜥シャシー、全域物理AIインテリジェンスを標準装備する。運転支援は「IM AD ZETA」で、MomentaのワールドモデルとL4級のモデル能力を用いてL2運転支援を強化するとしている。音声エージェント「IM Claw（ロブスター）」はAlibabaの千問大規模モデルと共同開発された。</p><p><a href="https://www.geekcar.com/archives/140406">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] 魏牌二代蓝山、11月9日に予約販売を開始 28.98万元から</title>
-      <link>https://www.geekcar.com/archives/140419</link>
-      <guid isPermaLink="true">https://www.geekcar.com/archives/140419</guid>
-      <pubDate>Mon, 09 Nov 2026 16:19:43 GMT</pubDate>
-      <category>GeekCar</category>
-      <category>その他</category>
-      <description><![CDATA[<p><strong>GeekCar</strong></p><p>魏牌（WEY）の二代蓝山が11月9日に予約販売を開始した。归元S（归元S）プラットフォームをベースに開発された大型の箱型SUVで、5人乗りと6人乗りの2仕様があり、予約価格は28.98万元から。「全地形AI」と呼ばれる車両インテリジェント体験体系を搭載するとしているが、自動運転・運転支援の具体的な機能や自動化レベルは抜粋の範囲では示されていない。予約者向けに購入時の現金減免があり、初めて魏牌車を買い替えるオーナーには20,000元の置換補助が用意される。</p><p><a href="https://www.geekcar.com/archives/140419">元記事を読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[★★★☆☆] BMW新型iX3・i3、中国で今月発売へ iX3は11月25日、i3は広州モーターショーで</title>
-      <link>https://carnewschina.com/2026/11/09/bmw-to-launch-all-new-ix3-and-i3-in-china-this-month/</link>
-      <guid isPermaLink="true">https://carnewschina.com/2026/11/09/bmw-to-launch-all-new-ix3-and-i3-in-china-this-month/</guid>
-      <pubDate>Mon, 09 Nov 2026 04:03:17 GMT</pubDate>
-      <category>CarNewsChina</category>
-      <category>その他</category>
-      <description><![CDATA[<p><strong>CarNewsChina</strong></p><p>BMWは中国での新型EVの発売日を発表した。ロングホイールベース版の新型iX3は11月25日に発売され、i3は11月27日に広州モーターショーでデビューする。両車は全国統一の価格戦略で販売される。iX3は8月から予約販売が始まっており、価格は26.99万〜33.99万元で据え置かれる。全長4,885mm、ホイールベース3,005mm。コックピットには40インチ4Kパノラマディスプレイ、17.9インチタッチスクリーン、HUAWEI HiCar、CarPlay、Alibabaの大規模モデルとDeepSeekを統合する。運転支援の詳細は抜粋に含まれない。</p><p><a href="https://carnewschina.com/2026/11/09/bmw-to-launch-all-new-ix3-and-i3-in-china-this-month/">元記事を読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
